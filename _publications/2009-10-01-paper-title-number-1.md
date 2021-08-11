@@ -1,7 +1,7 @@
 ---
 title: "BERT based Transformers lead the way in Extraction of Health Information from Social Media"
 collection: publications
-permalink: /publication/2021-06-10-paper-title-number-1
+permalink: /publication/2021-06-10-paper-title-number-2
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-06-10
 venue: 'NAACL | SMM4H'

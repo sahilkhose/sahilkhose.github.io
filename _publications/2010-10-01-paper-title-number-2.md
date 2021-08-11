@@ -1,7 +1,7 @@
 ---
 title: "Semi-Supervised Classification and Segmentation on High Resolution Aerial Images"
 collection: publications
-permalink: /publication/2021-06-24-paper-title-number-2
+permalink: /publication/2021-06-24-paper-title-number-1
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-06-24
 venue: 'arxiv'
