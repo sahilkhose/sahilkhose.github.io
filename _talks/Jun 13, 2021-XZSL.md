@@ -8,6 +8,4 @@ date: "June 13, 2021"
 location: "channel - Sahil Khose"
 ---
 
-Zero-shot learning (ZSL) has attracted significant attention due to its capabilities of classifying new images from unseen classes. In this paper, we propose to address a new and challenging task, namely explainable zero-shot learning (XZSL), which aims to generate visual and textual explanations to support the classification decision. [Link](https://www.youtube.com/watch?v=sdfO5cmiVho)
-
-Zero-shot learning (ZSL) has attracted significant attention due to its capabilities of classifying new images from unseen classes. In this paper, we propose to address a new and challenging task, namely explainable zero-shot learning (XZSL), which aims to generate visual and textual explanations to support the classification decision.
+Zero-shot learning (ZSL) has attracted significant attention due to its capabilities of classifying new images from unseen classes. In this paper, we propose to address a new and challenging task, namely explainable zero-shot learning (XZSL), which aims to generate visual and textual explanations to support the classification decision. <br>[Link for the video](https://www.youtube.com/watch?v=sdfO5cmiVho)
