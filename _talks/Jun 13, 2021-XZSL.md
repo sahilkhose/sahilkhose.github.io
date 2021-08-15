@@ -1,11 +1,11 @@
 ---
 title: "A Deep Multi-Modal Explanation Model for Zero-Shot Learning (XZSL)"
 collection: talks
-type: "YouTube video"
+type: "Research Paper Explanation Video"
 permalink: /talks/Jun 13, 2021-XZSL
-venue: ""
+venue: "YouTube"
 date: "June 13, 2021"
-location: ""
+location: "channel - Sahil Khose"
 ---
 
 [Link](https://www.youtube.com/watch?v=sdfO5cmiVho)
