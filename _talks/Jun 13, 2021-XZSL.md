@@ -3,9 +3,6 @@ title: "A Deep Multi-Modal Explanation Model for Zero-Shot Learning (XZSL)"
 collection: talks
 type: "YouTube video"
 permalink: /talks/Jun 13, 2021-XZSL
-venue: "venue"
-date: Jun 13, 2021
-location: "location"
 ---
 
 [More information here](https://www.youtube.com/watch?v=sdfO5cmiVho)
