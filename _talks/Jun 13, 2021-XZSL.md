@@ -1,5 +1,5 @@
 ---
-title: "A Deep Multi-Modal Explanation Model for Zero-Shot Learning (XZSL)"
+title: "#1 A Deep Multi-Modal Explanation Model for Zero-Shot Learning (XZSL)"
 collection: talks
 type: "Research Paper Explanation Video"
 permalink: /talks/Jun 13, 2021-XZSL

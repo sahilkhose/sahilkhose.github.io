@@ -1,5 +1,5 @@
 ---
-title: "XCiT: Cross-Covariance Image Transformers (Facebook AI)"
+title: "#3 XCiT: Cross-Covariance Image Transformers (Facebook AI)"
 collection: talks
 type: "Research Paper Explanation Video"
 permalink: /talks/Jun 23, 2021-XCiT
