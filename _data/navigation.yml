@@ -9,8 +9,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Projects"
-    url: /portfolio/
+  # - title: "Projects"
+  #   url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -19,5 +19,5 @@ main:
     # url: /cv/
     url: /files/Sahil_Khose.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
