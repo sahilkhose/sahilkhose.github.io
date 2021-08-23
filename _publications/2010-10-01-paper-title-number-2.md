@@ -8,8 +8,7 @@ venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2105.08655'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper proposes a semi-supervised solution to the classification and segmentation task for a high resolution aerial imagery dataset - FloodNet.
+**Sahil Khose**, *Abhiraj Tiwari, Ankita Ghosh*<br><br>This paper proposes a semi-supervised solution to the classification and segmentation task for a high resolution aerial imagery dataset - FloodNet.
 
-[Download paper here](https://arxiv.org/pdf/2105.08655/pdf)
 
 <!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
