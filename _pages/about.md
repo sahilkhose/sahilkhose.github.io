@@ -18,9 +18,7 @@ I have started a research initiative on YouTube, where I stream a research paper
 <br>
 I am always open to research collaborations, so if you want to have a discussion about the projects I have worked on or about a potential collaboration, feel free to drop a mail.
 
-<br>
-<br>
 ## Recent Updates
-- :calendar:	Aug 30, 2021: I publish my second blog on [Medium](https://sahilkhose.medium.com/zero-shot-learning-the-seen-the-unseen-and-the-unknown-9e69da125df2) explaining a fundamental concept of Zero-Shot Learning.
-- :calendar:	Aug 29, 2021: I released our 13th stream on YouTube, having Shruti Jain present to us a amazing paper on [Zero-Shot Object Detection](https://www.youtube.com/watch?v=f-UELOTXlB4)
-- :calendar:	Aug 26, 2021: Our pre-print on extraction of color from images is made public on [arxiv](https://arxiv.org/abs/2108.11554)
+- 📆	Aug 30, 2021: I publish my second blog on [Medium](https://sahilkhose.medium.com/zero-shot-learning-the-seen-the-unseen-and-the-unknown-9e69da125df2) explaining a fundamental concept of Zero-Shot Learning.
+- 📆	Aug 29, 2021: I released our 13th stream on YouTube, having Shruti Jain present to us a amazing paper on [Zero-Shot Object Detection](https://www.youtube.com/watch?v=f-UELOTXlB4)
+- 📆	Aug 26, 2021: Our pre-print on extraction of color from images is made public on [arxiv](https://arxiv.org/abs/2108.11554)
