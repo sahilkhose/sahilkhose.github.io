@@ -19,6 +19,7 @@ I have started a research initiative on YouTube, where I stream a research paper
 I am always open to research collaborations, so if you want to have a discussion about the projects I have worked on or about a potential collaboration, feel free to drop a mail.
 
 ## Recent Updates
-- 📆	Aug 30, 2021: I publish my second blog on [Medium](https://sahilkhose.medium.com/zero-shot-learning-the-seen-the-unseen-and-the-unknown-9e69da125df2) explaining a fundamental concept of Zero-Shot Learning.
-- 📆	Aug 29, 2021: I released our 13th stream on YouTube, having Shruti Jain present to us a amazing paper on [Zero-Shot Object Detection](https://www.youtube.com/watch?v=f-UELOTXlB4)
+- 📆	Sep 03, 2021: Fruitpunch AI Hyderabad chapter is made public on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6839531104295235584/). I am leading the team as the AI Expertise Head.
+- 📆	Aug 30, 2021: Published my second blog on [Medium](https://sahilkhose.medium.com/zero-shot-learning-the-seen-the-unseen-and-the-unknown-9e69da125df2) explaining a fundamental concept of Zero-Shot Learning.
+- 📆	Aug 29, 2021: Released our 13th stream on YouTube, having Shruti Jain present to us a amazing paper on [Zero-Shot Object Detection](https://www.youtube.com/watch?v=f-UELOTXlB4)
 - 📆	Aug 26, 2021: Our pre-print on extraction of color from images is made public on [arxiv](https://arxiv.org/abs/2108.11554)
