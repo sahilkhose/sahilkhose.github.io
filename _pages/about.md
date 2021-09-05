@@ -9,12 +9,9 @@ redirect_from:
 ---
 Hello, I'm Sahil Khose, a senior CS undergraduate student from Manipal Institute of Technology, India. I'm currently working as a research intern at the Artificial Intelligence and Robotics Lab at IISc Bangalore, in the domain of Continual Zero Shot Learning.
 <br>
-<br>
 My research interests lies in Computer Vision, NLP, Zero Shot Learning, Semi-Supervised Learning and Generative Neural Networks. You can check out my work and the projects in my resume.
 <br>
-<br>
-I have started a research initiative on YouTube, where I stream a research paper explanation every week. This was motivated by the lack of resources for paper explanations for a lot of niche domains which researchers might want to explore. I have posted 13 videos (by Aug 30, 2021) with 7 videos being personal presentations and 6 guest presentations. Couple of times the authors of the paper themselves have conducted the presentations! This is the link to my [YouTube channel](https://www.youtube.com/c/SahilKhose) & and a link to my [talks section](https://sahilkhose.github.io/talks/) where I have included the talks that I have personally presented.
-<br>
+I have started a research initiative on YouTube motivated by the lack of resources for paper explanations, where I stream a research paper explanation every week. I have posted 14 videos (by Sep 05, 2021) with 8 personal presentations and 6 guest presentations (authors at times). Link to my [YouTube channel](https://www.youtube.com/c/SahilKhose) & and link to my [talks section](https://sahilkhose.github.io/talks/) where I have included the talks that I have personally presented.
 <br>
 I am always open to research collaborations, so if you want to have a discussion about the projects I have worked on or about a potential collaboration, feel free to drop a mail.
 
