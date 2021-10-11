@@ -1,10 +1,10 @@
 ---
-permalink: /feed/
+layout: archive
 title: "Feed"
-excerpt: "Feed"
-redirect_from: 
-  - /feed/
-  - /feed.html
+permalink: /feed/
+author_profile: true
+redirect_from:
+  - /feed
 ---
 
 
