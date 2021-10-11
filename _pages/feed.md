@@ -2,7 +2,6 @@
 permalink: /feed/
 title: "Feed"
 excerpt: "Feed"
-author_profile: true
 redirect_from: 
   - /feed/
   - /feed.html
