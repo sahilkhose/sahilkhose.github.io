@@ -13,11 +13,11 @@ main:
   #   url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blog-posts/
     
   - title: "CV"
     # url: /cv/
     url: /files/Sahil_Khose.pdf
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Feed"
+    url: /markdown/
