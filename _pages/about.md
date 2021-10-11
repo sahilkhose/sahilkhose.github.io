@@ -11,7 +11,7 @@ Hello, I'm Sahil Khose, a senior CS undergraduate student from Manipal Institute
 <br>
 My research interests lies in Computer Vision, NLP, Zero Shot Learning, Semi-Supervised Learning and Generative Neural Networks. Check out my work and the projects in my [resume](https://sahilkhose.github.io/files/Sahil_Khose.pdf).
 <br>
-I have started a research initiative on [YouTube](https://youtube.com/c/SahilKhose) motivated by the lack of resources for paper explanations, where I stream a research paper explanation every week. I have posted 16 videos (by Oct 02, 2021) with 10 personal and 6 guest presentations (authors at times). [Talks section](https://sahilkhose.github.io/talks/) includes the talks that I have personally presented.
+I have started a research initiative on [YouTube](https://youtube.com/c/SahilKhose) where I stream a research paper explanation every week. I have posted 16 videos (by Oct 02, 2021) with 10 personal and 6 guest presentations (authors at times). [Talks section](https://sahilkhose.github.io/talks/) includes the talks that I have personally presented.
 <br>
 I am always open to research collaborations, so if you want to have a discussion about the projects I have worked on or about a potential collaboration, feel free to drop a mail.
 
