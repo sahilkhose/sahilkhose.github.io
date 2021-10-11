@@ -16,6 +16,7 @@ I have started a research initiative on [YouTube](https://youtube.com/c/SahilKho
 I am always open to research collaborations, so if you want to have a discussion about the projects I have worked on or about a potential collaboration, feel free to drop a mail.
 
 ## Recent Updates
+- 📆	Oct 11, 2021: Added a [Feed section](https://sahilkhose.github.io/feed/) to share interesting insights and ideas that I come across. (Go read it!)
 - 📆	Oct 2, 2021: Released our 16th stream on YouTube - a amazing paper on [Zero-Shot Object Detection (BLC)](https://www.youtube.com/watch?v=JP6SjoLDrkc)
 - 📆	Sep 18, 2021: Our pre-print on distillation for semi-supervised learning is made public on arxiv: [A Studious Approach to Semi-Supervised Learning](https://arxiv.org/abs/2108.11554)
 - 📆	Sep 12, 2021: Released our 15th stream on YouTube - very recent Google Research paper [FLAN: Finetuned Language Models are Zero-Shot Learners](https://www.youtube.com/watch?v=QDeYaqdjH0w)
