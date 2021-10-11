@@ -7,13 +7,12 @@ redirect_from:
   - /feed
 ---
 
+*Fascinating ideas that I read*
 
-## Recent Updates
-- 📆	Oct 2, 2021: Released our 16th stream on YouTube - a amazing paper on [Zero-Shot Object Detection (BLC)](https://www.youtube.com/watch?v=JP6SjoLDrkc)
-- 📆	Sep 18, 2021: Our pre-print on distillation for semi-supervised learning is made public on arxiv: [A Studious Approach to Semi-Supervised Learning](https://arxiv.org/abs/2108.11554)
-- 📆	Sep 12, 2021: Released our 15th stream on YouTube - very recent Google Research paper [FLAN: Finetuned Language Models are Zero-Shot Learners](https://www.youtube.com/watch?v=QDeYaqdjH0w)
-- 📆	Sep 05, 2021: Released our 14th stream on YouTube - a amazing paper on [Self-Distillation](https://www.youtube.com/watch?v=ugvHJbzhod8)
-- 📆	Sep 03, 2021: Fruitpunch AI Hyderabad chapter is made public on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6839531104295235584/). I am leading the team as the AI Expertise Head.
-- 📆	Aug 30, 2021: Published my second blog on [Medium](https://sahilkhose.medium.com/zero-shot-learning-the-seen-the-unseen-and-the-unknown-9e69da125df2) explaining a fundamental concept of Zero-Shot Learning.
-- 📆	Aug 29, 2021: Released our 13th stream on YouTube, having Shruti Jain present to us a amazing paper on [Zero-Shot Object Detection](https://www.youtube.com/watch?v=f-UELOTXlB4)
-- 📆	Aug 26, 2021: Our pre-print on extraction of color from images is made public on [arxiv](https://arxiv.org/abs/2108.11554)
+## 	10th Oct 2021, 03:30 AM
+Read Andrej Karpathy's blog and it was mindblowing
+
+---
+## 	9th Oct 2021, 08:00 AM
+Andrej Karpathy apart from being the director of AI and Autopilot Vision at Tesla and standing as the singular [human benchmark for ImageNet dataset](http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/) (yeah he classified all the images into 1000 classes after training for months!). 
+He is very famous for his [blogs](http://karpathy.github.io/), especially:  
