@@ -21,7 +21,7 @@ He is very famous for his [blogs](http://karpathy.github.io/), specifically: [A 
 He mentions 2 main ideas that motivated him to write this blog - Neural net training is a leaky abstraction, Neural net training fails silently. He is who coined the term "Programming 2.0" which encompasses this field of "Data-Driven Programming" (as George Hotz called it) where the directions of the program and results switch as compared to traditional programming:
 
 <p align="center">
-  <img src="https://sahilkhose.github.io/files/data_driven_programming.png" alt="Traditional vs ML programming image" width="350"/>
+  <img src="https://sahilkhose.github.io/files/data_driven_programming.png" alt="Traditional vs ML programming image" width="450"/>
 </p>
 
 Precisely because of this nature of obtaining a black box function (program) to solve the problem in Programming 2.0 setup, even though everything could be correct syntactically, there are a lot of major errors and bugs which creep in and your neural network will be misconfigured which might still continue to learn, but its performance on test set will be trash or if it performs well on the test set, it will have learnt a wrong task altogether eg: Learning a snow classifier instead of the much more complex husky vs wolf task (shoutout to [Ankita's talk](https://drive.google.com/drive/folders/1LeJ-VOzK08jvw6ILYycikIZNcGpssCQO?usp=sharing) 36:05 timestamp) or a ruler classifier instead of cancer cell classifer!
