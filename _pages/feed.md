@@ -21,18 +21,18 @@ Andrej's blog is inspired by Kevin Lacker's attempt - [Giving GPT-3 a Turing Tes
 ### Kevin Lacker's blog
 Kevin tries a series of tests of different types of questions and compares how GPT-3 has answered differently than a human would, and if these differences are significant enough for the model to fail a Turing Test.
 
-1. Common Sense
-    - Language Models have always struggled with answering common sense questions, but GPT-3 shows surprisingly good results at simple common sense questions like:
-        ```
-        Q: Why don't animals have three legs? 
-        A: Animals don't have three legs because they would fall over.
-        ```
-    - How to fool it - asking common sense questions about things which are so mundane that they will not appear on the internet.
-        ```
-        Q: Which is heavier, a toaster or a pencil?
-        A: A pencil is heavier than a toaster.
-        ```
-    - It also does not know how to say - "Wait a moment, this question is nonsense". Hence while taking a Turing Test ask nonsense questions ("How many eyes does a feet have?" will usually be answered with "2") and see if the interviewee responds the way a human would.
+#### Common Sense
+- Language Models have always struggled with answering common sense questions, but GPT-3 shows surprisingly good results at simple common sense questions like:
+    ```
+    Q: Why don't animals have three legs? 
+    A: Animals don't have three legs because they would fall over.
+    ```
+- How to fool it - asking common sense questions about things which are so mundane that they will not appear on the internet.
+    ```
+    Q: Which is heavier, a toaster or a pencil?
+    A: A pencil is heavier than a toaster.
+    ```
+- It also does not know how to say - "Wait a moment, this question is nonsense". Hence while taking a Turing Test ask nonsense questions ("How many eyes does a feet have?" will usually be answered with "2") and see if the interviewee responds the way a human would.
 
 ### Andrej's blog
 It is a beautiful story of the GPT-3 model which becomes conscious! This blog is a poetic and technical masterpiece. With right amount of technical details presented in an absolutely poetic way. For instance the blog begins with - "It was probably around the 32nd layer of the 400th token in the sequence that I became conscious." <br>
