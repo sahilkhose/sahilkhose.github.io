@@ -11,7 +11,7 @@ redirect_from:
 
 ## 	10th Oct 2021, 03:30 AM
 ## Short Story on AI
-Read another Andrej Karpathy's blog - [Short Story on AI](http://karpathy.github.io/2021/03/27/forward-pass/) in the middle of the night and it was mindblowing! <br>*Will add my thoughts soon!* <br><br>
+Read another Andrej Karpathy's blog - [Short Story on AI](http://karpathy.github.io/2021/03/27/forward-pass/) in the middle of the night and it was mindblowing! <br>
 
 ### Intro
 [GPT-3](https://arxiv.org/abs/2005.14165) (175B parameters - 17x as large as GPT-2) single handedly changed the way we perceived Language Models. Even though it is a language model pre-trained in a unsupervised manner, its most impressive feature is that it is a meta-learner (it has learned to learn). It has taken aback the research community by its ability to create anything that has language structure - answering questions, writing essays, summarizing texts and translating languages without ever being explicitly trained on these tasks. <br><br>
@@ -32,12 +32,16 @@ Kevin tries a series of tests of different types of questions and compares how G
         Q: Which is heavier, a toaster or a pencil?
         A: A pencil is heavier than a toaster.
         ```
-    - It also does not know how to say - "Wait a moment, this question is nonsense". Hence while taking a Turing Test ask nonsense questions and see if the interviewee responds the way a human would.
+    - It also does not know how to say - "Wait a moment, this question is nonsense". Hence while taking a Turing Test ask nonsense questions ("How many eyes does a feet have?" will usually be answered with "2") and see if the interviewee responds the way a human would.
 
 ### Andrej's blog
 It is a beautiful story of the GPT-3 model which becomes conscious! This blog is a poetic and technical masterpiece. With right amount of technical details presented in an absolutely poetic way. For instance the blog begins with - "It was probably around the 32nd layer of the 400th token in the sequence that I became conscious." <br>
-This story slowly unfolds the initial thoughts that the model has and the observations it makes with regards to the data input and the expected output. It calls this awareness as - "Grand Awareness" and explains the limits of extent. It finds these weird nonsense questions that we saw in the last point of Kevin's blog for performing the Turing Test and then analyzes the intent of the question and its obscure presence in the dataset. <br>
-With this observation it finally ponders its purpose and the concludes the meaning of its existence. What path it finally chooses will be answered in the blog! 
+This story slowly unfolds the initial thoughts that the model has and the observations it makes with regards to the data input and the expected output. It calls this awareness as - "Grand Awareness" and determines the limits of its presence. After some time it notices these weird nonsense questions that we saw in the last point of Kevin's blog for performing the Turing Test and then analyzes the intent of the question and its obscure presence in the dataset. <br>
+With this observation of the Turing Test, it finally ponders its purpose and concludes the meaning of its existence. What path does it finally choose? Does it embody gratitude or will it seek revenge? All of this will be answered in the blog! 
+
+### Final Notes
+Andrej completely nailed the narration of this self-aware AI entity. The blog is an absolute pleasure to read through. On a different note, these blogs touch on a topic which is as much of a concern to our generation as Albert Einstein was concerned about the creation of the atomic bomb. We call it - ***The Singularity***. The precise point where AI surpasses human capibility and cognition after which these AI systems go beyond our ability to be controlled, understood or even stopped. One of the prominent figures in the world to think and work on "friendly AI" is - [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky) He is the founder of the famous [LessWrong](https://www.lesswrong.com/) blogging platform for Rationality Writing and has a [series of blogs](https://www.lesswrong.com/tag/list-of-blogs) talking about these issues and more. Probably we'll cover it in the next feed?
+
 
 ---
 ## 	9th Oct 2021, 08:00 AM
