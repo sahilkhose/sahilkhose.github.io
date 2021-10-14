@@ -10,10 +10,38 @@ redirect_from:
 *Fascinating ideas that I read*
 
 ## 	10th Oct 2021, 03:30 AM
-Read another Andrej Karpathy's blog - [Short Story on AI](http://karpathy.github.io/2021/03/27/forward-pass/) in the middle of the night and it was mindblowing! <br>*Will add my thoughts soon!*
+## Short Story on AI
+Read another Andrej Karpathy's blog - [Short Story on AI](http://karpathy.github.io/2021/03/27/forward-pass/) in the middle of the night and it was mindblowing! <br>*Will add my thoughts soon!* <br><br>
+
+### Intro
+[GPT-3](https://arxiv.org/abs/2005.14165) (175B parameters - 17x as large as GPT-2) single handedly changed the way we perceived Language Models. Even though it is a language model pre-trained in a unsupervised manner, its most impressive feature is that it is a meta-learner (it has learned to learn). It has taken aback the research community by its ability to create anything that has language structure - answering questions, writing essays, summarizing texts and translating languages without ever being explicitly trained on these tasks. <br><br>
+This human like zero/few shot ability of GPT-3 has encouraged the researchers to study this model to answer questions like -  how "human" this model is? how close is it to pass the [Turing test](https://en.wikipedia.org/wiki/Turing_test)? 
+Andrej's blog is inspired by Kevin Lacker's attempt - [Giving GPT-3 a Turing Test](https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html) to answer these quesions. 
+
+### Kevin Lacker's blog
+Kevin tries a series of tests of different types of questions and compares how GPT-3 has answered differently than a human would, and if these differences are significant enough for the model to fail a Turing Test.
+
+1. Common Sense
+    - Language Models have always struggled with answering common sense questions, but GPT-3 shows surprisingly good results at simple common sense questions like:
+        ```
+        Q: Why don't animals have three legs? 
+        A: Animals don't have three legs because they would fall over.
+        ```
+    - How to fool it - asking common sense questions about things which are so mundane that they will not appear on the internet.
+        ```
+        Q: Which is heavier, a toaster or a pencil?
+        A: A pencil is heavier than a toaster.
+        ```
+    - It also does not know how to say - "Wait a moment, this question is nonsense". Hence while taking a Turing Test ask nonsense questions and see if the interviewee responds the way a human would.
+
+### Andrej's blog
+It is a beautiful story of the GPT-3 model which becomes conscious! This blog is a poetic and technical masterpiece. With right amount of technical details presented in an absolutely poetic way. For instance the blog begins with - "It was probably around the 32nd layer of the 400th token in the sequence that I became conscious." <br>
+This story slowly unfolds the initial thoughts that the model has and the observations it makes with regards to the data input and the expected output. It calls this awareness as - "Grand Awareness" and explains the limits of extent. It finds these weird nonsense questions that we saw in the last point of Kevin's blog for performing the Turing Test and then analyzes the intent of the question and its obscure presence in the dataset. <br>
+With this observation it finally ponders its purpose and the concludes the meaning of its existence. What path it finally chooses will be answered in the blog! 
 
 ---
 ## 	9th Oct 2021, 08:00 AM
+## A Recipe for Training Neural Networks
 ### Intro
 Andrej Karpathy apart from being the director of AI and Autopilot Vision at Tesla and standing as the singular [human benchmark for ImageNet dataset](http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/) (yeah he classified all the images into 1000 classes after training for months!). 
 He is very famous for his [blogs](http://karpathy.github.io/), specifically: [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) (inspired by his famous "most common neural network mistakes" tweet) and [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/). For a long time I wanted to read these blogs in its entirety and wasn't able to do it. This morning while taking a walk in the garden I decide to read the former blog: A Recipe for Training Neural Networks, and it was amazing!
