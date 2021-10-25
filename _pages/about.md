@@ -16,6 +16,7 @@ I have started a research initiative on [YouTube](https://youtube.com/c/SahilKho
 I am always open to research collaborations, so if you want to have a discussion about the projects I have worked on or about a potential collaboration, feel free to drop a mail.
 
 ## Recent Updates
+- 📆	Oct 25, 2021: Adding another [feed blog](https://sahilkhose.github.io/feed/) answering the question - What is the most beautiful idea about Deep Learning?
 - 📆	Oct 23, 2021: Our paper - [Semi-Supervised Classification and Segmentation on High Resolution Aerial Images](https://arxiv.org/abs/2105.08655) got accepted at [Tackling Climate Change with ML workshop](https://www.climatechange.ai/events/neurips2021.html) at NeurIPS 2021! All 3 papers accepted at various workshops at NeurIPS2021!
 - 📆	Oct 21, 2021: Our paper - [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://arxiv.org/abs/2108.11554) got accepted at New in ML, Deep Generative Models and Downstream Applications,Machine Learning for Creativity and Design workshops at NeurIPS 2021! 
 - 📆	Oct 18, 2021: Our paper - [A Studious Approach to Semi-Supervised Learning](https://arxiv.org/abs/2109.08924) got accepted at [ICBINB workshop](https://i-cant-believe-its-not-better.github.io/neurips2021/) at NeurIPS 2021!
