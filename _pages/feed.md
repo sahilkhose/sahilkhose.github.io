@@ -11,12 +11,12 @@ redirect_from:
 
 ## 25th Oct 2021, 10:30 PM
 ## What is the most beautiful idea about Deep Learning?
-1. Ilya Sutskever: https://youtu.be/13CZPWmke6A?t=1774 
+1. [Ilya Sutskever](https://youtu.be/13CZPWmke6A?t=1774) 
     - What is the most beautiful or surprising idea in deep learning or AI in general you've come across?
-    - A. So I think the most beautiful thing about deep learning is that it *actually works*.
-2. Yan LeCun: https://youtu.be/SGSOCuByo24?t=463
+    - A. So I think the most beautiful thing about deep learning is that it ***actually works***.
+2. [Yan LeCun](https://youtu.be/SGSOCuByo24?t=463)
     - What is the most beautiful or surprising idea in deep learning or AI in general you've come across?
-    - A. I don't know if it's an idea rather than a sort of empirical fact. The fact that you can build gigantic neural nets, train them on relatively small amounts of data (relatively) with SGD and it *actually works*. 
+    - A. I don't know if it's an idea rather than a sort of empirical fact. The fact that you can build gigantic neural nets, train them on relatively small amounts of data (relatively) with SGD and it ***actually works***. 
 
 ---
 ## 	10th Oct 2021, 03:30 AM
