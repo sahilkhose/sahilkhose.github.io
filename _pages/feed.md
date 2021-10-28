@@ -11,12 +11,15 @@ redirect_from:
 
 ## 25th Oct 2021, 10:30 PM
 ## What is the most beautiful idea about Deep Learning?
-1. [Ilya Sutskever](https://youtu.be/13CZPWmke6A?t=1774) 
-    - What is the most beautiful or surprising idea in deep learning or AI in general you've come across?
-    - A. So I think the most beautiful thing about deep learning is that it ***actually works***.
-2. [Yan LeCun](https://youtu.be/SGSOCuByo24?t=463)
-    - What is the most beautiful or surprising idea in deep learning or AI in general you've come across?
-    - A. I don't know if it's an idea rather than a sort of empirical fact. The fact that you can build gigantic neural nets, train them on relatively small amounts of data (relatively) with SGD and it ***actually works***. 
+1. [Ilya Sutskever](https://youtu.be/13CZPWmke6A?t=1774) - co-inventer of AlexNet, co-author of AlphaGo, chief scientist at OpenAI
+    - Lex: What is the most beautiful or surprising idea in deep learning or AI in general you've come across?
+    - Ilya: So I think the most beautiful thing about deep learning is that it ***actually works***.
+2. [Yan LeCun](https://youtu.be/SGSOCuByo24?t=463) - One of the 3 Godfathers of AI (Turing Award receiever with Yoshua Bengio and Geoffrey Hinton)
+    - Lex: What is the most beautiful or surprising idea in deep learning or AI in general you've come across?
+    - Ilya: I don't know if it's an idea rather than a sort of empirical fact. The fact that you can build gigantic neural nets, train them on relatively small amounts of data (relatively) with SGD and it ***actually works***. 
+3. [Yoshua Bengio](https://youtu.be/azOmzumh0vQ?t=2474) 
+    - Lex: What made you fall in love with Artificial Intelligence?
+    - Yoshua: When I was an adoloscent I was reading a lot and then I started reading science fiction.
 
 ---
 ## 	10th Oct 2021, 03:30 AM
