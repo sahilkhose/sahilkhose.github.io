@@ -7,14 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I'm Sahil Khose, a senior CS undergraduate student from Manipal Institute of Technology, India. I'm currently working as a research intern at the Artificial Intelligence and Robotics Lab at IISc Bangalore, in the domain of Continual Zero Shot Learning.
+Hello, I'm Sahil Khose, a senior CS undergraduate student from MIT Manipal, India. I'm currently working as a research intern at AIRL, IISc Bangalore in the domain of Continual Zero Shot Learning.
 <br>
-My research interests lies in Computer Vision, NLP, Zero Shot Learning, Semi-Supervised Learning and Generative Neural Networks. Check out my work and the projects in my [resume](https://sahilkhose.github.io/files/Sahil_Khose.pdf).
 <br>
-I have started a research initiative on [YouTube](https://youtube.com/c/SahilKhose) where I stream a research paper explanation every week. I have posted 16 videos (by Oct 02, 2021) with 10 personal and 6 guest presentations (authors at times). [Talks section](https://sahilkhose.github.io/talks/) includes the talks that I have personally presented.
+My research experience and interests are in the field of *Computer Vision, Continual Learning, Zero-Shot Learning, Semi-supervised Learning, NLP and Self-supervised Learning*. Solving deep learning problems using a limited (ideally zero) amount of data is what piques my interest. 
+<br>
+*Check out my work and the projects in my [resume](https://sahilkhose.github.io/files/Sahil_Khose.pdf)*.
+
+- I have started a research initiative on [YouTube](https://youtube.com/c/SahilKhose) where I stream a research paper explanations. 
+- [Talks](https://sahilkhose.github.io/talks/) include the talks that I have personally presented on my channel.
+- [Feed](https://sahilkhose.github.io/feed/) include some of the fascinating ideas that I have read. **[New]**
+
 <br>
 I am always open to research collaborations, so if you want to have a discussion about the projects I have worked on or about a potential collaboration, feel free to drop a mail.
 
+---
 ## Recent Updates
 - 📆	Oct 25, 2021: Adding another [feed blog](https://sahilkhose.github.io/feed/) answering the question - What is the most beautiful idea about Deep Learning?
 - 📆	Oct 23, 2021: Our paper - [Semi-Supervised Classification and Segmentation on High Resolution Aerial Images](https://arxiv.org/abs/2105.08655) got accepted at [Tackling Climate Change with ML workshop](https://www.climatechange.ai/events/neurips2021.html) at NeurIPS 2021! All 3 papers accepted at various workshops at NeurIPS2021!
