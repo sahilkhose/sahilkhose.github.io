@@ -7,19 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I'm Sahil Khose, a senior CS undergraduate student from MIT Manipal, India. I'm currently working as a research intern at AIRL, IISc Bangalore in the domain of Continual Zero Shot Learning.
+Hello, I'm Sahil Khose, a senior CS undergrad from MIT Manipal, India. I'm currently working as a research intern at AIRL, IISc Bangalore in the domain of Continual Zero Shot Learning.
 <br>
-<br>
-My research experience and interests are in the field of *Computer Vision, Continual Learning, Zero-Shot Learning, Semi-supervised Learning, NLP and Self-supervised Learning*. Solving deep learning problems using a limited (ideally zero) amount of data is what piques my interest. 
-<br>
-*Check out my work and the projects in my [resume](https://sahilkhose.github.io/files/Sahil_Khose.pdf)*.
 
-- I have started a research initiative on [YouTube](https://youtube.com/c/SahilKhose) where I stream a research paper explanations. 
-- [Talks](https://sahilkhose.github.io/talks/) include the talks that I have personally presented on my channel.
-- [Feed](https://sahilkhose.github.io/feed/) include some of the fascinating ideas that I have read. **[New]**
-
+My research interests are in the field of Computer Vision, Continual Learning, Zero-Shot Learning, Semi-supervised Learning, NLP and Self-supervised Learning. Solving deep learning problems using a limited (ideally zero) amount of data is what piques my interest. 
 <br>
-I am always open to research collaborations, so if you want to have a discussion about the projects I have worked on or about a potential collaboration, feel free to drop a mail.
+
+I have started a research initiative on [YouTube](https://youtube.com/c/SahilKhose) where I stream a research paper explanations. 
+[Talks](https://sahilkhose.github.io/talks/) include the talks that I have personally presented on my channel.
+[Feed](https://sahilkhose.github.io/feed/) **[New]** include some of the fascinating ideas that I am reading. 
+<br>
+
+I am always open to research collaborations, so if you want to have discuss projects I have worked on or a potential collaboration, feel free to drop a mail. *Check out my work and projects in my [CV](https://sahilkhose.github.io/files/Sahil_Khose.pdf)*. 
+
 
 ---
 ## Recent Updates
