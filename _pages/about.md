@@ -18,7 +18,7 @@ I have started a research initiative on [YouTube](https://youtube.com/c/SahilKho
 [Feed](https://sahilkhose.github.io/feed/) **[New]** include some of the fascinating ideas that I am reading. 
 <br>
 
-I am always open to research collaborations, so if you want to have discuss projects I have worked on or a potential collaboration, feel free to drop a mail. *Check out my work and projects in my [CV](https://sahilkhose.github.io/files/Sahil_Khose.pdf)*. 
+I am always open to research collaborations, so if you want to have discuss projects I have worked on or a potential collaboration, feel free to drop a mail. Check out my work and projects in my [CV](https://sahilkhose.github.io/files/Sahil_Khose.pdf). 
 
 
 ---
