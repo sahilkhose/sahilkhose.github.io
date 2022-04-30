@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I'm an incoming Fall 2022 student at Georgia Tech where I will be pursuing MSCS with a Machine Learning specialization. 
+Hello, I'm an incoming Fall 2022 student at **Georgia Tech** where I will be pursuing **MSCS** with a **Machine Learning** specialization. 
 
 Currently, I am a senior CS undergrad at MIT Manipal, India. For the past 10 months I have been working as a research assistant at AIRL, IISc Bangalore in the domain of Continual Zero Shot Learning.
 <br>
