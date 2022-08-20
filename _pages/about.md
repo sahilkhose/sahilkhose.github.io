@@ -7,20 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I'm an incoming Fall 2022 student at **Georgia Tech** where I will be pursuing **MSCS** with a **Machine Learning** specialization. 
-
-Currently, I am a senior CS undergrad at MIT Manipal, India. For the past 10 months I have been working as a research assistant at AIRL, IISc Bangalore in the domain of Continual Zero Shot Learning.
+Hello, I'm am currently a student at [Georgia Institute of Technology](https://www.gatech.edu/) pursuing my [MS in Computer Science](https://www.cc.gatech.edu/degree-programs/master-science-computer-science). I completed my undergraduate studies in Computer and Communication Engineering at [Manipal Institute of Technology](https://manipal.edu/mit.html) in Manipal, Karnataka, India. 
 <br>
 
 My research interests are in the field of Computer Vision, Continual Learning, Zero-Shot Learning, Semi/Self-supervised Learning and NLP. Solving deep learning problems using a limited (ideally zero) amount of data is what piques my interest. 
 <br>
 
-I have a research initiative on [YouTube](https://youtube.com/c/SahilKhose) for streaming research paper explanations. 
-[Talks](https://sahilkhose.github.io/talks/) include the personal explanations on my channel.
-[Feed](https://sahilkhose.github.io/feed/) **[New]** include the fascinating ideas that I am reading. 
+Prior to this I have worked as a research assistant at the Aritificial Intelligence and Robotics Lab, Indian Institute of Science, Bangalore, India in the field of Continual Zero-Shot Learning. I have also worked as a AI Developer at Project MANAS working on their self-driving car and later as a AI Researcher at Research Society Manipal where I primarily worked in developing AI solutions in low resource scenarios. 
 <br>
 
-I am always open to research collaborations, so if you want to discuss projects that I have worked on or a potential collaboration, feel free to drop a mail. Check out my work in my [CV](https://sahilkhose.github.io/files/Sahil_Khose.pdf). 
+During my free time I try to stream research paper explanations on my [YouTube channel](https://youtube.com/c/SahilKhose). 
+The [Talks section](https://sahilkhose.github.io/talks/) include the explanations presented by me.
+The [Feed section](https://sahilkhose.github.io/feed/) **[New]** includes some of the ideas I find interesting across the web. 
+<br>
+
+I am always open to research collaborations, so if you want to discuss projects that I have worked on or a potential collaboration, feel free to drop a mail at sahil(dot)khose(at)gatech(dot)edu. Check out my work in my [CV](https://sahilkhose.github.io/files/Sahil_Khose.pdf). 
 
 
 ---
