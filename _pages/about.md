@@ -28,6 +28,10 @@ I am always open to research collaborations, so if you want to discuss projects 
 ## Recent Updates
 [ 🌟: Important | 💡: Research Paper | 🎬: YouTube Video | 📆: Miscellaneous ]
 
+- 🌟 Aug 22, 2022: I begin my graduate studies at Georgia Tech. Hoping to reach new limits. 
+
+- 💡 Jun 23, 2022: Our paper - [An Efficient Modern Baseline for FloodNet VQA](https://arxiv.org/abs/2205.15025) is accepted in the [New In ML workshop](https://ablacan.github.io/NewInML2022_ICML/) at ICML 2022! [🌟 Update: Best Paper Award!]
+
 - 💡 Apr 5, 2022: Our paper - [Transformer based ensemble for emotion detection](https://arxiv.org/abs/2203.11899) is accepted in the [WASSA workshop](https://wassa-workshop.github.io/) at ACL 2022!
 
 - 🌟 Apr 4, 2022: Admitted to the [MS CS](https://www.cc.gatech.edu/degree-programs/master-science-computer-science) program of [Georgia Tech](https://www.gatech.edu/) for Fall 2022!
