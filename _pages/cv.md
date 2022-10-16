@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Computer Communication Engineering, Manipal Institute of Technology, 2022
+* B.Tech. in Computer and Communication Engineering, Manipal Institute of Technology, 2022
 * M.S. in Computer Science, Georgia Institute of Technology, 2024
 
 <!-- Work experience
@@ -47,11 +47,11 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Service and leadership
 ======
