@@ -21,12 +21,16 @@ The [Talks section](https://sahilkhose.github.io/talks/) include the explanation
 The [Feed section](https://sahilkhose.github.io/feed/) **[New]** includes some of the ideas I find interesting across the web. 
 <br>
 
-I am always open to research collaborations, so if you want to discuss projects that I have worked on or a potential collaboration, feel free to drop a mail at sahil(dot)khose(at)gatech(dot)edu. Check out my work in my [CV](https://sahilkhose.github.io/files/Sahil_Khose.pdf). 
+I am always open to research collaborations, so if you want to discuss projects that I have worked on or a potential collaboration, feel free to drop a mail. Check out my work in my [CV](https://sahilkhose.github.io/files/Sahil_Khose.pdf). 
 
 
 ---
 ## Recent Updates
 [ 🌟: Important | 💡: Research Paper | 🎬: YouTube Video | 📆: Miscellaneous ]
+
+- 🌟 Attending NeurIPS 2022 at New Orleans, LA, USA. Hit me up if you are too!
+
+- 💡 Oct 20, 2022: Our paper - [Continual VQA for Disaster Response Systems](https://arxiv.org/abs/2209.10320) is accepted in the [Tackling Climate Change with ML workshop](https://www.climatechange.ai/events/neurips2022) at NeurIPS 2022! 
 
 - 🌟 Aug 22, 2022: I begin my graduate studies at Georgia Tech. Hoping to reach new limits. 
 
