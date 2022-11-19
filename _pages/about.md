@@ -13,14 +13,14 @@ Hello, I'm a first-year [MSCS](https://www.cc.gatech.edu/degree-programs/master-
 My research interests are in the field of Computer Vision, NLP, Semi/Self-supervised Learning, Zero-Shot Learning, Domain Adaptation, and Continual Learning. Solving deep learning problems using a limited (ideally zero) amount of data is what piques my interest. 
 <br>
 
-<!-- Prior to this I have worked as a research assistant at the Aritificial Intelligence and Robotics Lab, Indian Institute of Science, Bangalore, India in the field of Continual Zero-Shot Learning. I have also worked as a AI Developer at Project MANAS working on their self-driving car and later as a AI Researcher at Research Society Manipal where I primarily worked in developing AI solutions in low resource scenarios. 
-<br> -->
+Prior to this I have worked as a research assistant at the Aritificial Intelligence and Robotics Lab, Indian Institute of Science, Bangalore, India in the field of Continual Zero-Shot Learning. I have also worked as a AI Developer at Project MANAS working on their self-driving car and later as a AI Researcher at Research Society Manipal where I primarily worked in developing AI solutions in low resource scenarios. 
+<br>
 
 During my free time I try to stream research paper explanations on my [YouTube channel](https://youtube.com/c/SahilKhose). 
 <!-- The [Talks section](https://sahilkhose.github.io/talks/) include the explanations presented by me.
 The [Feed section](https://sahilkhose.github.io/feed/) **[New]** includes some of the ideas I find interesting across the web.  -->
 <!-- <br> -->
-I am always open to research collaborations, so if you want to discuss projects that I have worked on or a potential collaboration, feel free to drop a mail. Check out my work in my [CV](https://sahilkhose.github.io/files/Sahil_Khose.pdf). 
+I am looking for summer 2023 ML research positions, so if you like my work, feel free to drop me an e-mail. Check out my work in my [CV](https://sahilkhose.github.io/files/Sahil_Khose.pdf). 
 
 --- 
 ## Publications
