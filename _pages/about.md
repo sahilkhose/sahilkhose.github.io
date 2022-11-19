@@ -7,22 +7,38 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I'm am currently a student at [Georgia Institute of Technology](https://www.gatech.edu/) pursuing my [MS in Computer Science](https://www.cc.gatech.edu/degree-programs/master-science-computer-science). I completed my undergraduate studies in Computer and Communication Engineering at [Manipal Institute of Technology](https://manipal.edu/mit.html) in Manipal, Karnataka, India. 
+Hello, I'm a first-year [MSCS](https://www.cc.gatech.edu/degree-programs/master-science-computer-science) student at [Georgia Tech](https://www.gatech.edu/). I completed my BTech from [MIT, Manipal](https://manipal.edu/mit.html).
 <br>
 
-My research interests are in the field of Computer Vision, Continual Learning, Zero-Shot Learning, Semi/Self-supervised Learning and NLP. Solving deep learning problems using a limited (ideally zero) amount of data is what piques my interest. 
+My research interests are in the field of Computer Vision, NLP, Semi/Self-supervised Learning, Zero-Shot Learning, Domain Adaptation, and Continual Learning. Solving deep learning problems using a limited (ideally zero) amount of data is what piques my interest. 
 <br>
 
-Prior to this I have worked as a research assistant at the Aritificial Intelligence and Robotics Lab, Indian Institute of Science, Bangalore, India in the field of Continual Zero-Shot Learning. I have also worked as a AI Developer at Project MANAS working on their self-driving car and later as a AI Researcher at Research Society Manipal where I primarily worked in developing AI solutions in low resource scenarios. 
-<br>
+<!-- Prior to this I have worked as a research assistant at the Aritificial Intelligence and Robotics Lab, Indian Institute of Science, Bangalore, India in the field of Continual Zero-Shot Learning. I have also worked as a AI Developer at Project MANAS working on their self-driving car and later as a AI Researcher at Research Society Manipal where I primarily worked in developing AI solutions in low resource scenarios. 
+<br> -->
 
 During my free time I try to stream research paper explanations on my [YouTube channel](https://youtube.com/c/SahilKhose). 
-The [Talks section](https://sahilkhose.github.io/talks/) include the explanations presented by me.
-The [Feed section](https://sahilkhose.github.io/feed/) **[New]** includes some of the ideas I find interesting across the web. 
-<br>
-
+<!-- The [Talks section](https://sahilkhose.github.io/talks/) include the explanations presented by me.
+The [Feed section](https://sahilkhose.github.io/feed/) **[New]** includes some of the ideas I find interesting across the web.  -->
+<!-- <br> -->
 I am always open to research collaborations, so if you want to discuss projects that I have worked on or a potential collaboration, feel free to drop a mail. Check out my work in my [CV](https://sahilkhose.github.io/files/Sahil_Khose.pdf). 
 
+--- 
+## Publications
+### 2022
+- ***NeurIPS 2022*** [Visting the conference at New Orleans, drop me a mail if you want to meet!]
+  - [Poster] [Continual VQA for Disaster Response Systems](https://arxiv.org/abs/2209.10320) at [CCAI](https://www.climatechange.ai/events/neurips2022)
+- ***ICML 2022***
+  - [Best Paper Award 🌟] [An Efficient Modern Baseline for FloodNet VQA](https://arxiv.org/abs/2205.15025) at [New In ML](https://ablacan.github.io/NewInML2022_ICML/)
+- ***ACL 2022***
+  - [Oral] [Transformer based ensemble for emotion detection](https://arxiv.org/abs/2203.11899) at [WASSA](https://wassa-workshop.github.io/)
+
+### 2021
+- ***NeurIPS 2021***
+  1. [Spotlight Paper 🌟] [Semi-Supervised Classification and Segmentation on High Resolution Aerial Images](https://arxiv.org/abs/2105.08655) at [CCAI](https://www.climatechange.ai/events/neurips2021.html)
+  2. [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://arxiv.org/abs/2108.11554) at 1. [Oral] New in ML 2. [Paper] CtrlGen 3. [Paper] ML4CD 4. [Poster] DGM
+  3. [Poster] [A Studious Approach to Semi-Supervised Learning](https://arxiv.org/abs/2109.08924) at [ICBINB](https://i-cant-believe-its-not-better.github.io/neurips2021/)
+- ***NAACL 2021***
+  - [Oral] [BERT based Transformers lead the way in Extraction of Health Information from Social Media](https://aclanthology.org/2021.smm4h-1.5/) at [SMM4H](https://healthlanguageprocessing.org/smm4h-2021/)
 
 ---
 ## Recent Updates
