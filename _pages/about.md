@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I'm a first-year [MSCS](https://www.cc.gatech.edu/degree-programs/master-science-computer-science) student at [Georgia Tech](https://www.gatech.edu/). I completed my BTech from [MIT, Manipal](https://manipal.edu/mit.html).
+Hello, I'm a first-year MSCS student at **Georgia Tech** specializing in Machine Learning. I am working under the supervision of [Prof. Judy Hoffman](https://faculty.cc.gatech.edu/~judy/) at the Hoffman Lab exploring methods to assess synthetic to real generalization of vision modules for aerial imagery. I am also working at the [Neural Data Science Lab (NerDS)](https://dyerlab.gatech.edu/people/lab-students/) under [Prof. Eva Dyer](https://dyerlab.gatech.edu/people/pi-profile/) on domain generalization by utilizing sample-to-sample relationships. I earned my BTech in CS in 2022 from [MIT Manipal, India](https://manipal.edu/mit.html).
 <br>
 
-My research interests are in the field of Computer Vision, NLP, Semi/Self-supervised Learning, Zero-Shot Learning, Domain Adaptation, and Continual Learning. Solving deep learning problems using a limited (ideally zero) amount of data is what piques my interest. 
+I conducted my undergraduate thesis at the Aritificial Intelligence and Robotics Lab (AIRL), IISc Bangalore mentored by [Dr. Suresh Sundaram](https://iiscprofiles.irins.org/profile/99109) and [Dr. Chandan Gautam](https://chandan-iiti.github.io/). I have also conducted research under [Dr. Harish Kumar J. R.](https://manipal.edu/mit/department-faculty/faculty-list/harish-kumar-j-r.html) at MIT, Manipal. During my undergrad, I have had the fortune to be a part of highly self-motivated student teams. I was an AI Developer at [Project MANAS](https://www.projectmanas.in/) working on their self-driving car and I learnt about research and began my research journey at [Research Society Manipal](http://www.researchsocietymit.com/). 
 <br>
 
-Prior to this I have worked as a research assistant at the Aritificial Intelligence and Robotics Lab, Indian Institute of Science, Bangalore, India in the field of Continual Zero-Shot Learning. I have also worked as a AI Developer at Project MANAS working on their self-driving car and later as a AI Researcher at Research Society Manipal where I primarily worked in developing AI solutions in low resource scenarios. 
+My research interests are in the field of Computer Vision, NLP, Semi/Self-supervised Learning, Zero-Shot Learning, Domain Adaptation, and Continual Learning. Solving deep learning problems using a limited (ideally zero) amount of supervision is what piques my interest. 
 <br>
 
 During my free time I try to stream research paper explanations on my [YouTube channel](https://youtube.com/c/SahilKhose). 
@@ -25,26 +25,26 @@ I am looking for summer 2023 ML research positions, so if you like my work, feel
 --- 
 ## Publications
 ### 2022
-- ***NeurIPS 2022*** [Visting the conference at New Orleans, drop me a mail if you want to meet!]
-  7. [Poster] [Continual VQA for Disaster Response Systems](https://arxiv.org/abs/2209.10320) at [CCAI](https://www.climatechange.ai/events/neurips2022)
+- ***NeurIPS 2022*** [Visted my first in-person conference in New Orleans!]
+  - [Poster] [Continual VQA for Disaster Response Systems](https://arxiv.org/abs/2209.10320) at [CCAI](https://www.climatechange.ai/events/neurips2022)
 - ***ICML 2022***
-  6. [Best Paper Award 🌟] [An Efficient Modern Baseline for FloodNet VQA](https://arxiv.org/abs/2205.15025) at [New In ML](https://ablacan.github.io/NewInML2022_ICML/)
+  - [Best Paper Award 🌟] [An Efficient Modern Baseline for FloodNet VQA](https://arxiv.org/abs/2205.15025) at [New In ML](https://ablacan.github.io/NewInML2022_ICML/)
 - ***ACL 2022***
-  5. [Oral] [Transformer based ensemble for emotion detection](https://arxiv.org/abs/2203.11899) at [WASSA](https://wassa-workshop.github.io/)
+  - [Oral] [Transformer based ensemble for emotion detection](https://arxiv.org/abs/2203.11899) at [WASSA](https://wassa-workshop.github.io/)
 
 ### 2021
 - ***NeurIPS 2021***
-  4. [Spotlight Paper 🌟] [Semi-Supervised Classification and Segmentation on High Resolution Aerial Images](https://arxiv.org/abs/2105.08655) at [CCAI](https://www.climatechange.ai/events/neurips2021.html)
-  3. [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://arxiv.org/abs/2108.11554) at 1. [Oral] New in ML 2. [Paper] CtrlGen 3. [Paper] ML4CD 4. [Poster] DGM
-  2. [Poster] [A Studious Approach to Semi-Supervised Learning](https://arxiv.org/abs/2109.08924) at [ICBINB](https://i-cant-believe-its-not-better.github.io/neurips2021/)
+  1. [Spotlight Paper 🌟] [Semi-Supervised Classification and Segmentation on High Resolution Aerial Images](https://arxiv.org/abs/2105.08655) at [CCAI](https://www.climatechange.ai/events/neurips2021.html)
+  2. [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://arxiv.org/abs/2108.11554) at 1. [Oral] New in ML 2. [Paper] CtrlGen 3. [Paper] ML4CD 4. [Poster] DGM
+  3. [Poster] [A Studious Approach to Semi-Supervised Learning](https://arxiv.org/abs/2109.08924) at [ICBINB](https://i-cant-believe-its-not-better.github.io/neurips2021/)
 - ***NAACL 2021***
-  1. [Oral] [BERT based Transformers lead the way in Extraction of Health Information from Social Media](https://aclanthology.org/2021.smm4h-1.5/) at [SMM4H](https://healthlanguageprocessing.org/smm4h-2021/)
+  - [Oral] [BERT based Transformers lead the way in Extraction of Health Information from Social Media](https://aclanthology.org/2021.smm4h-1.5/) at [SMM4H](https://healthlanguageprocessing.org/smm4h-2021/)
 
 ---
 ## Recent Updates
 [ 🌟: Important | 💡: Research Paper | 🎬: YouTube Video | 📆: Miscellaneous ]
 
-- 🌟 Attending NeurIPS 2022 at New Orleans, LA, USA. Hit me up if you are too!
+- 🌟 Attending NeurIPS 2022 at New Orleans, LA, USA. My first in-person conference!
 
 - 💡 Oct 20, 2022: Our paper - [Continual VQA for Disaster Response Systems](https://arxiv.org/abs/2209.10320) is accepted in the [Tackling Climate Change with ML workshop](https://www.climatechange.ai/events/neurips2022) at NeurIPS 2022! 
 
