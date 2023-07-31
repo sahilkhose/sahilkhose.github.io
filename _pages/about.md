@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I'm a first-year MSCS student at **Georgia Tech** specializing in Machine Learning. My research is currently focused on domain generalization by leveraging sample-to-sample relationships at the Neural Data Science Lab (NerDS) under the supervision of [Prof. Eva Dyer](https://dyerlab.gatech.edu/people/pi-profile/). I am also working on assessing the synthetic-to-real generalization of vision modules for aerial imagery under the guidance of [Prof. Judy Hoffman.](https://faculty.cc.gatech.edu/~judy/)
+Hello, I'm a second-year MSCS student at **Georgia Tech** specializing in Machine Learning. I am working on assessing the synthetic-to-real generalization of vision modules for aerial imagery under the guidance of [Prof. Judy Hoffman.](https://faculty.cc.gatech.edu/~judy/)
 <br>
 
 I completed my Bachelor's degree in Computer Science at MIT Manipal, India in 2022, where I was fortunate enough to conduct research at the Artificial Intelligence and Robotics Lab (AIRL) in IISc Bangalore, mentored by [Prof. Suresh Sundaram](https://iiscprofiles.irins.org/profile/99109) and [Dr. Chandan Gautam](https://chandan-iiti.github.io/). I have also conducted research under [Prof. Harish Kumar J. R.](https://manipal.edu/mit/department-faculty/faculty-list/harish-kumar-j-r.html) at MIT, Manipal. During my undergraduate studies, I was an AI Developer at [Project MANAS](https://www.projectmanas.in/), where I contributed to the development of their self-driving car. I was also a member of the [Research Society Manipal](http://www.researchsocietymit.com/), where I began my research journey.
@@ -16,7 +16,7 @@ I completed my Bachelor's degree in Computer Science at MIT Manipal, India in 20
 My research interests span several areas, including Computer Vision, NLP, Semi/Self-supervised Learning, Zero-Shot Learning, Domain Adaptation/Generalization, and Continual Learning. I am particularly interested in developing deep learning solutions using minimal or no supervision. My ultimate goal is to create intelligent systems that can learn from and adapt to the complex, ever-changing environments we encounter in the real world.
 <br>
 
-In my free time, I enjoy sharing my research interests and insights by streaming research paper explanations on my [YouTube channel](https://youtube.com/c/SahilKhose). I am currently seeking ML research positions for the summer of 2023, and I invite you to check out my [CV](https://sahilkhose.github.io/files/Sahil_Khose.pdf) and contact me if you are interested in collaborating. Let's make progress together!
+In my free time, I enjoy sharing my research interests and insights by streaming research paper explanations on my [YouTube channel](https://youtube.com/c/SahilKhose). I invite you to check out my [CV](https://sahilkhose.github.io/files/Sahil_Khose.pdf) and contact me if you are interested in collaborating.
 
 
 --- 
