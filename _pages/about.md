@@ -21,6 +21,10 @@ In my free time, I enjoy sharing my research interests and insights by streaming
 
 --- 
 ## Publications
+### 2023
+- ***WACV 2024*** [First main-conference paper!]
+  - [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration](https://arxiv.org/abs/2308.14596)
+
 ### 2022
 - ***NeurIPS 2022*** [Visted my first in-person conference in New Orleans!]
   - [Poster] [Continual VQA for Disaster Response Systems](https://arxiv.org/abs/2209.10320) at [CCAI](https://www.climatechange.ai/events/neurips2022)
