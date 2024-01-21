@@ -26,8 +26,13 @@ In my free time, I enjoy sharing my research interests and insights by streaming
 --- 
 ## Publications
 ### 2023
+- SkyScenes: A Synthetic Dataset for Aerial Scene Understanding ***[Under review]***
+  - Sahil Khose*, Anisha Pal*, Aayushi Agarwal*, Deepanshi*, Judy Hoffman, Prithvijit Chattopadhyay
+  - [[Arxiv]](https://arxiv.org/abs/2312.06719) [[Dataset]](https://huggingface.co/datasets/hoffman-lab/SkyScenes) [[GitHub]](https://github.com/hoffman-group/SkyScenes)
+
 - ***WACV 2024*** [First main-conference paper!]
   - [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration](https://arxiv.org/abs/2308.14596)
+  - Ran Liu, Sahil Khose, Jingyun Xiao, Lakshmi Sathidevi, Keerthan Ramnath, Zsolt Kira, Eva L. Dyer
 
 ### 2022
 - ***NeurIPS 2022*** [Visted my first in-person conference in New Orleans!]
