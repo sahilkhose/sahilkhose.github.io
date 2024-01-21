@@ -27,7 +27,7 @@ In my free time, I enjoy sharing my research interests and insights by streaming
 ## Publications
 ### 2023
 - SkyScenes: A Synthetic Dataset for Aerial Scene Understanding ***[Under review]***
-  - Sahil Khose*, Anisha Pal*, Aayushi Agarwal*, Deepanshi*, Judy Hoffman, Prithvijit Chattopadhyay
+  - Sahil Khose, Anisha Pal, Aayushi Agarwal, Deepanshi, Judy Hoffman, Prithvijit Chattopadhyay
   - [[Arxiv]](https://arxiv.org/abs/2312.06719) [[Dataset]](https://huggingface.co/datasets/hoffman-lab/SkyScenes) [[GitHub]](https://github.com/hoffman-group/SkyScenes)
 
 - ***WACV 2024*** [First main-conference paper!]
