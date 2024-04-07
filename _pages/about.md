@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I'm a second-year MSCS student at **Georgia Tech** specializing in Machine Learning. I am working on assessing the synthetic-to-real generalization of vision modules for aerial imagery under the guidance of [Prof. Judy Hoffman.](https://faculty.cc.gatech.edu/~judy/)
+Hello, I'm a second-year MSCS student (incoming Ph.D. student) at **Georgia Tech** specializing in Machine Learning. I am working on assessing the synthetic-to-real generalization of vision modules for aerial imagery under the guidance of [Prof. Judy Hoffman.](https://faculty.cc.gatech.edu/~judy/)
 <br>
 
 In Spring 2023, I worked at the NerDS (Neural Data Science) Lab at Georgia Tech under the guidance of Prof. Eva Dyer and Ran Liu. We worked on solving domain-shifting issues in domain generalization by utilizing sample-to-sample relationships. 
@@ -23,36 +23,15 @@ My research interests span several areas, including Computer Vision, NLP, Semi/S
 In my free time, I enjoy sharing my research interests and insights by streaming research paper explanations on my [YouTube channel](https://youtube.com/c/SahilKhose). I invite you to check out my [CV](https://sahilkhose.github.io/files/Sahil_Khose.pdf) and contact me if you are interested in collaborating.
 
 
---- 
-## Publications
-### 2023
-- SkyScenes: A Synthetic Dataset for Aerial Scene Understanding ***[Under review]***
-  - Sahil Khose, Anisha Pal, Aayushi Agarwal, Deepanshi, Judy Hoffman, Prithvijit Chattopadhyay
-  - [[Arxiv]](https://arxiv.org/abs/2312.06719) [[Dataset]](https://huggingface.co/datasets/hoffman-lab/SkyScenes) [[GitHub]](https://github.com/hoffman-group/SkyScenes)
-
-- ***WACV 2024*** [First main-conference paper!]
-  - [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration](https://arxiv.org/abs/2308.14596)
-  - Ran Liu, Sahil Khose, Jingyun Xiao, Lakshmi Sathidevi, Keerthan Ramnath, Zsolt Kira, Eva L. Dyer
-
-### 2022
-- ***NeurIPS 2022*** [Visted my first in-person conference in New Orleans!]
-  - [Poster] [Continual VQA for Disaster Response Systems](https://arxiv.org/abs/2209.10320) at [CCAI](https://www.climatechange.ai/events/neurips2022)
-- ***ICML 2022***
-  - [Best Paper Award 🌟] [An Efficient Modern Baseline for FloodNet VQA](https://arxiv.org/abs/2205.15025) at [New In ML](https://ablacan.github.io/NewInML2022_ICML/)
-- ***ACL 2022***
-  - [Oral] [Transformer based ensemble for emotion detection](https://arxiv.org/abs/2203.11899) at [WASSA](https://wassa-workshop.github.io/)
-
-### 2021
-- ***NeurIPS 2021***
-  1. [Spotlight Paper 🌟] [Semi-Supervised Classification and Segmentation on High Resolution Aerial Images](https://arxiv.org/abs/2105.08655) at [CCAI](https://www.climatechange.ai/events/neurips2021.html)
-  2. [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://arxiv.org/abs/2108.11554) at 1. [Oral] New in ML 2. [Paper] CtrlGen 3. [Paper] ML4CD 4. [Poster] DGM
-  3. [Poster] [A Studious Approach to Semi-Supervised Learning](https://arxiv.org/abs/2109.08924) at [ICBINB](https://i-cant-believe-its-not-better.github.io/neurips2021/)
-- ***NAACL 2021***
-  - [Oral] [BERT based Transformers lead the way in Extraction of Health Information from Social Media](https://aclanthology.org/2021.smm4h-1.5/) at [SMM4H](https://healthlanguageprocessing.org/smm4h-2021/)
-
 ---
 ## Recent Updates
 [ 🌟: Important | 💡: Research Paper | 🎬: YouTube Video | 📆: Miscellaneous ]
+
+- 🌟 Apr 1, 2024: I will be joining Georgia Tech for Ph.D. in CS under **Prof. Judy Hoffman** in Fall 2024. 
+
+- 📆 Mar 12, 2024: Serving as a reviewer for ECCV 2024.
+
+- 💡 Oct 24, 2023: Our paper - [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration]() is accepted at WACV 2024! My first main-conference paper!
 
 - 🌟 Attending NeurIPS 2022 at New Orleans, LA, USA. My first in-person conference!
 
@@ -98,3 +77,30 @@ In my free time, I enjoy sharing my research interests and insights by streaming
 
 
 - 💡 Aug 26, 2021: Our pre-print - [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://arxiv.org/abs/2108.11554) is made public on arxiv.
+
+--- 
+## Publications
+### 2023
+- SkyScenes: A Synthetic Dataset for Aerial Scene Understanding ***[Under review]***
+  - Sahil Khose, Anisha Pal, Aayushi Agarwal, Deepanshi, Judy Hoffman, Prithvijit Chattopadhyay
+  - [[Arxiv]](https://arxiv.org/abs/2312.06719) [[Dataset]](https://huggingface.co/datasets/hoffman-lab/SkyScenes) [[GitHub]](https://github.com/hoffman-group/SkyScenes)
+
+- ***WACV 2024*** [First main-conference paper!]
+  - [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration](https://arxiv.org/abs/2308.14596)
+  - Ran Liu, Sahil Khose, Jingyun Xiao, Lakshmi Sathidevi, Keerthan Ramnath, Zsolt Kira, Eva L. Dyer
+
+### 2022
+- ***NeurIPS 2022*** [Visted my first in-person conference in New Orleans!]
+  - [Poster] [Continual VQA for Disaster Response Systems](https://arxiv.org/abs/2209.10320) at [CCAI](https://www.climatechange.ai/events/neurips2022)
+- ***ICML 2022***
+  - [Best Paper Award 🌟] [An Efficient Modern Baseline for FloodNet VQA](https://arxiv.org/abs/2205.15025) at [New In ML](https://ablacan.github.io/NewInML2022_ICML/)
+- ***ACL 2022***
+  - [Oral] [Transformer based ensemble for emotion detection](https://arxiv.org/abs/2203.11899) at [WASSA](https://wassa-workshop.github.io/)
+
+### 2021
+- ***NeurIPS 2021***
+  1. [Spotlight Paper 🌟] [Semi-Supervised Classification and Segmentation on High Resolution Aerial Images](https://arxiv.org/abs/2105.08655) at [CCAI](https://www.climatechange.ai/events/neurips2021.html)
+  2. [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://arxiv.org/abs/2108.11554) at 1. [Oral] New in ML 2. [Paper] CtrlGen 3. [Paper] ML4CD 4. [Poster] DGM
+  3. [Poster] [A Studious Approach to Semi-Supervised Learning](https://arxiv.org/abs/2109.08924) at [ICBINB](https://i-cant-believe-its-not-better.github.io/neurips2021/)
+- ***NAACL 2021***
+  - [Oral] [BERT based Transformers lead the way in Extraction of Health Information from Social Media](https://aclanthology.org/2021.smm4h-1.5/) at [SMM4H](https://healthlanguageprocessing.org/smm4h-2021/)
