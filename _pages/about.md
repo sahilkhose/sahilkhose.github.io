@@ -7,10 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I'm a second-year MSCS student (incoming Ph.D. student) at **Georgia Tech** specializing in Machine Learning. I am working on assessing the synthetic-to-real generalization of vision modules for aerial imagery under the guidance of [Prof. Judy Hoffman.](https://faculty.cc.gatech.edu/~judy/)
+Hello, I'm a first-year MSCS student Ph.D. student at **Georgia Tech** advised by [Judy Hoffman.](https://faculty.cc.gatech.edu/~judy/) I had an amazing experience at my bachelor's from Manipal, India in 2022 and interned at IISc Bangalore for my thesis. 
+
+
 <br>
 
-In Spring 2023, I worked at the NerDS (Neural Data Science) Lab at Georgia Tech under the guidance of Prof. Eva Dyer and Ran Liu. We worked on solving domain-shifting issues in domain generalization by utilizing sample-to-sample relationships. 
+<!-- In Spring 2023, I worked at the NerDS (Neural Data Science) Lab at Georgia Tech under the guidance of Prof. Eva Dyer and Ran Liu. We worked on solving domain-shifting issues in domain generalization by utilizing sample-to-sample relationships. 
 
 I completed my Bachelor's degree in Computer Science at MIT Manipal, India in 2022, where I was extremely fortunate to conduct research under [Prof. Harish Kumar J. R.](https://manipal.edu/mit/department-faculty/faculty-list/harish-kumar-j-r.html) and [Prof. Ujjwal Verma](https://uverma.github.io/).
 
@@ -20,18 +22,22 @@ I was fortunate enough to conduct my Bachelor's thesis at the Artificial Intelli
 My research interests span several areas, including Computer Vision, NLP, Semi/Self-supervised Learning, Zero-Shot Learning, Domain Adaptation/Generalization, and Continual Learning. I am particularly interested in developing deep learning solutions using minimal or no supervision. My ultimate goal is to create intelligent systems that can learn from and adapt to the complex, ever-changing environments we encounter in the real world.
 <br>
 
-In my free time, I enjoy sharing my research interests and insights by streaming research paper explanations on my [YouTube channel](https://youtube.com/c/SahilKhose). I invite you to check out my [CV](https://sahilkhose.github.io/files/Sahil_Khose.pdf) and contact me if you are interested in collaborating.
+In my free time, I enjoy sharing my research interests and insights by streaming research paper explanations on my [YouTube channel](https://youtube.com/c/SahilKhose). I invite you to check out my [CV](https://sahilkhose.github.io/files/Sahil_Khose.pdf) and contact me if you are interested in collaborating. -->
 
 
 ---
 ## Recent Updates
-[ 🌟: Important | 💡: Research Paper | 🎬: YouTube Video | 📆: Miscellaneous ]
+[ 🌟: Important | 💡: Research Paper | 📆: Miscellaneous ]
+
+- 🌟 Attending ECCV 2024 at Milan, Italy! Georgia Tech published an article for our paper [CoC Article](https://www.cc.gatech.edu/news/skyscenes-dataset-could-lead-safe-reliable-autonomous-flying-vehicles)!
+
+- 💡 Jul 1, 2024: My first first-author paper -- [SkyScenes: A Synthetic Dataset for Aerial Scene Understanding](https://arxiv.org/abs/2312.06719) is accepted at ECCV 2024!
 
 - 🌟 Apr 1, 2024: I will be joining Georgia Tech for Ph.D. in CS under **Prof. Judy Hoffman** in Fall 2024. 
 
 - 📆 Mar 12, 2024: Serving as a reviewer for ECCV 2024.
 
-- 💡 Oct 24, 2023: Our paper - [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration]() is accepted at WACV 2024! My first main-conference paper!
+- 💡 Oct 24, 2023: Our paper - [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration](https://arxiv.org/abs/2308.14596) is accepted at WACV 2024! My first main-conference paper!
 
 - 🌟 Attending NeurIPS 2022 at New Orleans, LA, USA. My first in-person conference!
 
@@ -44,7 +50,7 @@ In my free time, I enjoy sharing my research interests and insights by streaming
 - 💡 Apr 5, 2022: Our paper - [Transformer based ensemble for emotion detection](https://arxiv.org/abs/2203.11899) is accepted in the [WASSA workshop](https://wassa-workshop.github.io/) at ACL 2022!
 
 - 🌟 Apr 4, 2022: Admitted to the [MS CS](https://www.cc.gatech.edu/degree-programs/master-science-computer-science) program of [Georgia Tech](https://www.gatech.edu/) for Fall 2022!
-
+<!-- 
 - 💡 Mar 22, 2022: Our pre-print - [Transformer based ensemble for emotion detection](https://arxiv.org/abs/2203.11899) is made public on arxiv.
 
 - 🎬 Feb 4, 2022: Released our 18th stream on YouTube, having [Ankita Ghosh](https://ankitaghosh9.github.io/) present to us her amazing paper titled [IS-CAM: Integrated Score-CAM for axiomatic-based explanations](https://www.youtube.com/watch?v=26X-HoPCD1Y).
@@ -76,18 +82,27 @@ In my free time, I enjoy sharing my research interests and insights by streaming
 - 🎬	Aug 29, 2021: Released our 13th stream on YouTube, having Shruti Jain present to us a amazing paper on [Zero-Shot Object Detection](https://www.youtube.com/watch?v=f-UELOTXlB4).
 
 
-- 💡 Aug 26, 2021: Our pre-print - [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://arxiv.org/abs/2108.11554) is made public on arxiv.
+- 💡 Aug 26, 2021: Our pre-print - [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://arxiv.org/abs/2108.11554) is made public on arxiv. -->
 
 --- 
 ## Publications
-### 2023
-- SkyScenes: A Synthetic Dataset for Aerial Scene Understanding ***[Under review]***
-  - Sahil Khose, Anisha Pal, Aayushi Agarwal, Deepanshi, Judy Hoffman, Prithvijit Chattopadhyay
-  - [[Arxiv]](https://arxiv.org/abs/2312.06719) [[Dataset]](https://huggingface.co/datasets/hoffman-lab/SkyScenes) [[GitHub]](https://github.com/hoffman-group/SkyScenes)
+### 2024
+
+- ***ECCV 2024*** [First first-author paper!]
+  - [SkyScenes: A Synthetic Dataset for Aerial Scene Understanding](https://arxiv.org/abs/2312.06719)
+  - Sahil Khose*, Anisha Pal*, Aayushi Agarwal*, Deepanshi*, Judy Hoffman, Prithvijit Chattopadhyay
+  - [Website](https://hoffman-group.github.io/SkyScenes/)
+  | [HF🤗](https://huggingface.co/datasets/hoffman-lab/SkyScenes)
+  | [Paper](https://arxiv.org/abs/2312.06719)
+  | [CoC Article](https://www.cc.gatech.edu/news/skyscenes-dataset-could-lead-safe-reliable-autonomous-flying-vehicles)
+| [GitHub](https://github.com/hoffman-group/SkyScenes)
+![Sample Image](/images/skyscenes.png)
+
 
 - ***WACV 2024*** [First main-conference paper!]
   - [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration](https://arxiv.org/abs/2308.14596)
   - Ran Liu, Sahil Khose, Jingyun Xiao, Lakshmi Sathidevi, Keerthan Ramnath, Zsolt Kira, Eva L. Dyer
+![Sample Image](/images/latentdr.png)
 
 ### 2022
 - ***NeurIPS 2022*** [Visted my first in-person conference in New Orleans!]
