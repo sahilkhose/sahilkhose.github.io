@@ -7,40 +7,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m a first-year Ph.D. student at **Georgia Tech**, where I’m fortunate to be advised by [Judy Hoffman](https://faculty.cc.gatech.edu/~judy/). I completed my bachelor’s at Manipal Institute of Technology, India, in 2022, where I had an incredible learning experience. For my thesis, I interned at IISc Bangalore, deepening my interest in research.
+Hi! I’m a first-year Ph.D. student at **Georgia Tech**, where I’m fortunate to be advised by [Judy Hoffman](https://faculty.cc.gatech.edu/~judy/). I completed my bachelor’s at Manipal Institute of Technology, India, in 2022, where I had an incredible learning experience. For my bachelor's thesis, I interned at IISc Bangalore.
 
 My research focuses on advancing areas like Computer Vision, NLP, Semi/Self-supervised Learning, Zero-Shot Learning, Domain Adaptation, and Continual Learning. I’m passionate about creating deep learning models that require minimal supervision. 
 
-Lately, I’ve been diving into Multimodal Large Language Models (LLMs) — if you’re working in this area or just curious, feel free to reach out. I’d love to chat! ***I am also attending ECCV 2024, feel free to reach out.*** 
-
+Lately, I’ve been diving into Multimodal Large Language Models (LLMs) — if you’re working in this area or just curious, feel free to reach out. I’d love to chat! ***I am also attending ECCV 2024.*** 
 <br>
-
-<!-- In Spring 2023, I worked at the NerDS (Neural Data Science) Lab at Georgia Tech under the guidance of Prof. Eva Dyer and Ran Liu. We worked on solving domain-shifting issues in domain generalization by utilizing sample-to-sample relationships. 
-
-I completed my Bachelor's degree in Computer Science at MIT Manipal, India in 2022, where I was extremely fortunate to conduct research under [Prof. Harish Kumar J. R.](https://manipal.edu/mit/department-faculty/faculty-list/harish-kumar-j-r.html) and [Prof. Ujjwal Verma](https://uverma.github.io/).
-
-I was fortunate enough to conduct my Bachelor's thesis at the Artificial Intelligence and Robotics Lab (AIRL) in IISc Bangalore, mentored by [Prof. Suresh Sundaram](https://iiscprofiles.irins.org/profile/99109) and [Dr. Chandan Gautam](https://chandan-iiti.github.io/). During my undergraduate studies, I was an AI Developer at [Project MANAS](https://www.projectmanas.in/), where I contributed to the development of their self-driving car. I was also a member of the [Research Society Manipal](http://www.researchsocietymit.com/), where I began my research journey.
-<br>
- 
-My research interests span several areas, including Computer Vision, NLP, Semi/Self-supervised Learning, Zero-Shot Learning, Domain Adaptation/Generalization, and Continual Learning. I am particularly interested in developing deep learning solutions using minimal or no supervision. My ultimate goal is to create intelligent systems that can learn from and adapt to the complex, ever-changing environments we encounter in the real world.
-<br>
-
-In my free time, I enjoy sharing my research interests and insights by streaming research paper explanations on my [YouTube channel](https://youtube.com/c/SahilKhose). I invite you to check out my [CV](https://sahilkhose.github.io/files/Sahil_Khose.pdf) and contact me if you are interested in collaborating. -->
-
 
 ---
 ## Recent Updates
 [ 🌟: Important | 💡: Research Paper | 📆: Miscellaneous ]
 
-- 🌟 Attending ECCV 2024 at Milan, Italy! Georgia Tech published an article for our paper [CoC Article](https://www.cc.gatech.edu/news/skyscenes-dataset-could-lead-safe-reliable-autonomous-flying-vehicles)!
+- 🌟 Attending ECCV 2024 at Milan, Italy! Georgia Tech published an [article](https://www.cc.gatech.edu/news/skyscenes-dataset-could-lead-safe-reliable-autonomous-flying-vehicles) about our work!
 
 - 💡 Jul 1, 2024: My first first-author paper -- [SkyScenes: A Synthetic Dataset for Aerial Scene Understanding](https://arxiv.org/abs/2312.06719) is accepted at ECCV 2024!
 
-- 🌟 Apr 1, 2024: I will be joining Georgia Tech for Ph.D. in CS under **Prof. Judy Hoffman** in Fall 2024. 
+- 🌟 Apr 1, 2024: Joining Georgia Tech for Ph.D. in CS under **Prof. Judy Hoffman** in Fall 2024. 
 
 - 📆 Mar 12, 2024: Serving as a reviewer for ECCV 2024.
 
-- 💡 Oct 24, 2023: Our paper - [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration](https://arxiv.org/abs/2308.14596) is accepted at WACV 2024! My first main-conference paper!
+- 💡 Oct 24, 2023: My first main-conference paper - [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration](https://arxiv.org/abs/2308.14596) is accepted at WACV 2024!
 
 - 🌟 Attending NeurIPS 2022 at New Orleans, LA, USA. My first in-person conference!
 
