@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I'm a first-year MSCS student Ph.D. student at **Georgia Tech** advised by [Judy Hoffman.](https://faculty.cc.gatech.edu/~judy/) I had an amazing experience at my bachelor's from Manipal, India in 2022 and interned at IISc Bangalore for my thesis. 
+Hello, I'm a first-year Ph.D. student at **Georgia Tech** advised by [Judy Hoffman.](https://faculty.cc.gatech.edu/~judy/) I had an amazing experience at my bachelor's from Manipal, India in 2022 and interned at IISc Bangalore for my thesis. 
+
+My research interests span several areas, including Computer Vision, NLP, Semi/Self-supervised Learning, Zero-Shot Learning, Domain Adaptation/Generalization, and Continual Learning. I am particularly interested in developing deep learning solutions using minimal or no supervision. I am recently interest in Multimodal LLMs, would love to chat if you're interested in the area. 
+
+
 <br>
 
 <!-- In Spring 2023, I worked at the NerDS (Neural Data Science) Lab at Georgia Tech under the guidance of Prof. Eva Dyer and Ran Liu. We worked on solving domain-shifting issues in domain generalization by utilizing sample-to-sample relationships. 
@@ -38,14 +42,6 @@ In my free time, I enjoy sharing my research interests and insights by streaming
 - 💡 Oct 24, 2023: Our paper - [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration](https://arxiv.org/abs/2308.14596) is accepted at WACV 2024! My first main-conference paper!
 
 - 🌟 Attending NeurIPS 2022 at New Orleans, LA, USA. My first in-person conference!
-
-- 💡 Oct 20, 2022: Our paper - [Continual VQA for Disaster Response Systems](https://arxiv.org/abs/2209.10320) is accepted in the [Tackling Climate Change with ML workshop](https://www.climatechange.ai/events/neurips2022) at NeurIPS 2022! 
-
-- 🌟 Aug 22, 2022: I begin my graduate studies at Georgia Tech. Hoping to reach new limits. 
-
-- 💡 Jun 23, 2022: Our paper - [An Efficient Modern Baseline for FloodNet VQA](https://arxiv.org/abs/2205.15025) is accepted in the [New In ML workshop](https://ablacan.github.io/NewInML2022_ICML/) at ICML 2022! [🌟 Update: Best Paper Award!]
-
-- 💡 Apr 5, 2022: Our paper - [Transformer based ensemble for emotion detection](https://arxiv.org/abs/2203.11899) is accepted in the [WASSA workshop](https://wassa-workshop.github.io/) at ACL 2022!
 
 - 🌟 Apr 4, 2022: Admitted to the [MS CS](https://www.cc.gatech.edu/degree-programs/master-science-computer-science) program of [Georgia Tech](https://www.gatech.edu/) for Fall 2022!
 
