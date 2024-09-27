@@ -22,7 +22,7 @@ Lately, I’ve been diving into Multimodal Large Language Models (LLMs) — if y
 
 - 💡 Jul 1, 2024: My first first-author paper -- [SkyScenes: A Synthetic Dataset for Aerial Scene Understanding](https://arxiv.org/abs/2312.06719) is accepted at ECCV 2024!
 
-- 🌟 Apr 1, 2024: Joining Georgia Tech for Ph.D. in CS under **Prof. Judy Hoffman** in Fall 2024. 
+- 🌟 Apr 1, 2024: Joining Georgia Tech for Ph.D. CS under **Prof. Judy Hoffman** in Fall 2024. 
 
 - 📆 Mar 12, 2024: Serving as a reviewer for ECCV 2024.
 
