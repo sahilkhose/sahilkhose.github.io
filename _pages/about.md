@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 Hello, I'm a first-year MSCS student Ph.D. student at **Georgia Tech** advised by [Judy Hoffman.](https://faculty.cc.gatech.edu/~judy/) I had an amazing experience at my bachelor's from Manipal, India in 2022 and interned at IISc Bangalore for my thesis. 
-
-
 <br>
 
 <!-- In Spring 2023, I worked at the NerDS (Neural Data Science) Lab at Georgia Tech under the guidance of Prof. Eva Dyer and Ran Liu. We worked on solving domain-shifting issues in domain generalization by utilizing sample-to-sample relationships. 
@@ -83,6 +81,7 @@ In my free time, I enjoy sharing my research interests and insights by streaming
 
 
 - 💡 Aug 26, 2021: Our pre-print - [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://arxiv.org/abs/2108.11554) is made public on arxiv. -->
+
 
 --- 
 ## Publications
