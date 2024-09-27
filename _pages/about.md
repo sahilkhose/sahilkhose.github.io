@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I'm a first-year Ph.D. student at **Georgia Tech** advised by [Judy Hoffman.](https://faculty.cc.gatech.edu/~judy/) I had an amazing experience at my bachelor's from Manipal, India in 2022 and interned at IISc Bangalore for my thesis. 
+Hi! I’m a first-year Ph.D. student at **Georgia Tech**, where I’m fortunate to be advised by [Judy Hoffman](https://faculty.cc.gatech.edu/~judy/). I completed my bachelor’s at Manipal Institute of Technology, India, in 2022, where I had an incredible learning experience. For my thesis, I interned at IISc Bangalore, deepening my interest in research.
 
-My research interests span several areas, including Computer Vision, NLP, Semi/Self-supervised Learning, Zero-Shot Learning, Domain Adaptation/Generalization, and Continual Learning. I am particularly interested in developing deep learning solutions using minimal or no supervision. I am recently interest in Multimodal LLMs, would love to chat if you're interested in the area. 
+My research focuses on advancing areas like Computer Vision, NLP, Semi/Self-supervised Learning, Zero-Shot Learning, Domain Adaptation, and Continual Learning. I’m passionate about creating deep learning models that require minimal supervision. 
 
+Lately, I’ve been diving into Multimodal Large Language Models (LLMs) — if you’re working in this area or just curious, feel free to reach out. I’d love to chat! ***I am also attending ECCV 2024, feel free to reach out.*** 
 
 <br>
 
@@ -51,7 +52,7 @@ In my free time, I enjoy sharing my research interests and insights by streaming
 
 - ***ECCV 2024*** [First first-author paper!]
   - [SkyScenes: A Synthetic Dataset for Aerial Scene Understanding](https://arxiv.org/abs/2312.06719)
-  - Sahil Khose*, Anisha Pal*, Aayushi Agarwal*, Deepanshi*, Judy Hoffman, Prithvijit Chattopadhyay
+  - Sahil Khose\*, Anisha Pal\*, Aayushi Agarwal\*, Deepanshi\*, Judy Hoffman, Prithvijit Chattopadhyay
   - [Website](https://hoffman-group.github.io/SkyScenes/)
   | [HF🤗](https://huggingface.co/datasets/hoffman-lab/SkyScenes)
   | [Paper](https://arxiv.org/abs/2312.06719)
