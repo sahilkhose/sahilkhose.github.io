@@ -23,6 +23,8 @@ I also review for top conferences (NeurIPS, CVPR, ECCV), and have published acro
 
 🌟 ***I’ll be attending CVPR 2025 — if you’re around and working in similar areas, I’d love to connect!***
 
+💼 ***I'm currently looking for research internships for Summer 2026 — feel free to reach out if you're hiring!***
+
 
 
 
