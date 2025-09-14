@@ -7,90 +7,108 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D. student in Computer Science at **Georgia Tech**, where I'm fortunate to be advised by [Prof. Judy Hoffman](https://faculty.cc.gatech.edu/~judy/). My research focuses on developing multimodal vision-language models that integrate spatial, semantic, and temporal reasoning with minimal supervision.
+I'm a Ph.D. student in Computer Science at **Georgia Tech**, where I'm fortunate to be advised by [Prof. Judy Hoffman](https://faculty.cc.gatech.edu/~judy/). My research centers on building multimodal vision-language models that combine spatial, semantic, and temporal reasoning with minimal supervision.
 
-Recent work includes:
+**Recent Projects:**
+- **World Models (WFM):**  Developing VLM-based benchmarks for automatic evaluation of world models.
+- **7B Open-Source VLM:** Open-vocabulary 3D scene graph generation (under review).
+- **SkyScenes:** Synthetic aerial dataset for real-world segmentation (ECCV 2024).
+- **Generalist Multimodal LLM:** Jointly-trained vision-audio model that reduces cross-modal interference and outperforms larger models.
 
-1. A 7B open-source VLM for open-vocabulary 3D scene graph generation, under review.
-
-2. SkyScenes, a synthetic aerial dataset for improving real-world segmentation, accepted at ECCV 2024.
-
-3. Generalist Multimodal LLM, where I designed a jointly-trained vision-audio model that outperforms larger generalist systems by reducing cross-modal interference.
-
-I bring prior experience in domain generalization, zero-shot learning, and synthetic-to-real adaptation, focusing on making models robust to diversity, correlation, and semantic shifts in real-world environments. My goal is to build generalizable systems that require minimal labeled data yet remain reliable under distribution shifts.
-
-I also review for top conferences (NeurIPS, CVPR, ECCV), and have published across both vision and language communities.
+My research advances **vision-language models (VLMs)** by extending their capabilities across modalities, spatial reasoning, and evaluation -- integrating **audio**, enhancing **spatial understanding**, and enabling automatic evaluation of **world models** for robotic manipulation. I have also worked on **syn-to-real transfer** and **domain generalization**.
 
 
-> 💼 <span style="color:#d6336c; font-weight:bold; font-size:1.1em;">I'm currently looking for research internships for Summer 2026 — feel free to reach out if you're hiring!</span>
+I regularly review for top conferences (NeurIPS, CVPR, ECCV) and have published in both vision and language communities.
 
+> 💼 <span style="color:#d6336c; font-weight:bold; font-size:1.1em;">I'm currently seeking research internships for Summer 2026 — feel free to reach out if you're hiring!</span>
 
-
-
-<!-- Hi! I’m a first-year Ph.D. student at **Georgia Tech**, where I’m fortunate to be advised by [Judy Hoffman](https://faculty.cc.gatech.edu/~judy/). I completed my bachelor’s at Manipal Institute of Technology, India, in 2022, where I had an incredible learning experience. For my bachelor's thesis, I interned at IISc Bangalore.
-
-My research focuses on advancing areas like Computer Vision, NLP, Semi/Self-supervised Learning, Zero-Shot Learning, Domain Adaptation, and Continual Learning. I’m passionate about creating deep learning models that require minimal supervision. 
-
-Lately, I’ve been diving into Multimodal Large Language Models (LLMs) — if you’re working in this area or just curious, feel free to reach out. I’d love to chat!  -->
 <br>
 
 ---
-## Recent Updates
-[ 🌟: Important | 💡: Research Paper | 📆: Miscellaneous ]
+## 📝 Recent Updates
 
-- 🌟 Attending CVPR 2025 in Nashville!
+<span style="font-size:0.95em;">[ <b>🌟</b>: Highlight &nbsp;|&nbsp; <b>💡</b>: Research &nbsp;|&nbsp; <b>📆</b>: Misc ]</span>
 
-- 🌟 Attending ECCV 2024 at Milan, Italy! Georgia Tech published an [article](https://www.cc.gatech.edu/news/skyscenes-dataset-could-lead-safe-reliable-autonomous-flying-vehicles) about our work!
-
-- 💡 Jul 1, 2024: My first first-author paper -- [SkyScenes: A Synthetic Dataset for Aerial Scene Understanding](https://arxiv.org/abs/2312.06719) is accepted at ECCV 2024!
+<ul style="list-style-type:none; padding-left:0;">
+  <li>
+    <span style="font-size:1.1em;">🌟</span> <b>Attending CVPR 2025</b> in Nashville!
+  </li>
+  <li>
+    <span style="font-size:1.1em;">🌟</span> <b>Attending ECCV 2024</b> in Milan, Italy!<br>
+    Georgia Tech published an <a href="https://www.cc.gatech.edu/news/skyscenes-dataset-could-lead-safe-reliable-autonomous-flying-vehicles">article</a> about our work.
+  </li>
+  <li>
+    <span style="font-size:1.1em;">💡</span> <b>Jul 1, 2024:</b> My first first-author paper — <a href="https://arxiv.org/abs/2312.06719">SkyScenes: A Synthetic Dataset for Aerial Scene Understanding</a> — accepted at ECCV 2024!
+  </li>
+</ul>
 
 <details>
-  <summary>View more</summary>
-
-- 🌟 Apr 1, 2024: Joining Georgia Tech for Ph.D. CS under **Prof. Judy Hoffman** in Fall 2024. 
-
-- 📆 Mar 12, 2024: Serving as a reviewer for ECCV 2024.
-
-- 💡 Oct 24, 2023: My first main-conference paper - [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration](https://arxiv.org/abs/2308.14596) is accepted at WACV 2024!
-
-- 🌟 Attending NeurIPS 2022 at New Orleans, LA, USA. My first in-person conference!
-
-- 🌟 Apr 4, 2022: Admitted to the [MS CS](https://www.cc.gatech.edu/degree-programs/master-science-computer-science) program of [Georgia Tech](https://www.gatech.edu/) for Fall 2022!
-
+  <summary style="cursor:pointer; font-weight:bold;">View more</summary>
+  <ul style="list-style-type:none; padding-left:0; margin-top:0.5em;">
+    <li>
+      <span style="font-size:1.1em;">🌟</span> <b>Apr 1, 2024:</b> Joining Georgia Tech for Ph.D. CS under <b>Prof. Judy Hoffman</b> (Fall 2024).
+    </li>
+    <li>
+      <span style="font-size:1.1em;">📆</span> <b>Mar 12, 2024:</b> Serving as a reviewer for ECCV 2024.
+    </li>
+    <li>
+      <span style="font-size:1.1em;">💡</span> <b>Oct 24, 2023:</b> My first main-conference paper — <a href="https://arxiv.org/abs/2308.14596">LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration</a> — accepted at WACV 2024!
+    </li>
+    <li>
+      <span style="font-size:1.1em;">🌟</span> Attended NeurIPS 2022 in New Orleans, LA, USA (my first in-person conference!).
+    </li>
+    <li>
+      <span style="font-size:1.1em;">🌟</span> <b>Apr 4, 2022:</b> Admitted to the <a href="https://www.cc.gatech.edu/degree-programs/master-science-computer-science">MS CS</a> program at <a href="https://www.gatech.edu/">Georgia Tech</a> for Fall 2022!
+    </li>
+  </ul>
 </details>
 
---- 
+---
 ## Publications
+
 ### 2024
 
-- ***ECCV 2024*** [First first-author paper!]
-  - [SkyScenes: A Synthetic Dataset for Aerial Scene Understanding](https://arxiv.org/abs/2312.06719)
-  - Sahil Khose\*, Anisha Pal\*, Aayushi Agarwal\*, Deepanshi\*, Judy Hoffman, Prithvijit Chattopadhyay
-  - [Website](https://hoffman-group.github.io/SkyScenes/)
-  | [HF🤗](https://huggingface.co/datasets/hoffman-lab/SkyScenes)
-  | [Paper](https://arxiv.org/abs/2312.06719)
-  | [CoC Article](https://www.cc.gatech.edu/news/skyscenes-dataset-could-lead-safe-reliable-autonomous-flying-vehicles)
-| [GitHub](https://github.com/hoffman-group/SkyScenes)
-![Sample Image](/images/skyscenes.png)
+#### ECCV 2024 <span style="color:#d6336c;">(First first-author paper!)</span>
+**SkyScenes: A Synthetic Dataset for Aerial Scene Understanding**  
+<sub>Sahil Khose\*, Anisha Pal\*, Aayushi Agarwal\*, Deepanshi\*, Judy Hoffman, Prithvijit Chattopadhyay</sub>  
+<div style="margin-bottom:0.5em;">
+  <a href="https://arxiv.org/abs/2312.06719">[Paper]</a>
+  <a href="https://hoffman-group.github.io/SkyScenes/">[Website]</a>
+  <a href="https://huggingface.co/datasets/hoffman-lab/SkyScenes">[HF🤗]</a>
+  <a href="https://www.cc.gatech.edu/news/skyscenes-dataset-could-lead-safe-reliable-autonomous-flying-vehicles">[CoC Article]</a>
+  <a href="https://github.com/hoffman-group/SkyScenes">[GitHub]</a>
+</div>
+<img src="/images/skyscenes.png" alt="SkyScenes Sample" style="max-width:400px; border-radius:8px; margin-bottom:1em;"/>
 
+#### WACV 2024 <span style="color:#228be6;">(First main-conference paper!)</span>
+**LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration**  
+<sub>Ran Liu, Sahil Khose, Jingyun Xiao, Lakshmi Sathidevi, Keerthan Ramnath, Zsolt Kira, Eva L. Dyer</sub>  
+<a href="https://arxiv.org/abs/2308.14596">[Paper]</a>
+<br>
+<img src="./images/latentdr.png" alt="LatentDR Sample" style="max-width:400px; border-radius:8px; margin-bottom:1em;"/>
 
-- ***WACV 2024*** [First main-conference paper!]
-  - [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration](https://arxiv.org/abs/2308.14596)
-  - Ran Liu, Sahil Khose, Jingyun Xiao, Lakshmi Sathidevi, Keerthan Ramnath, Zsolt Kira, Eva L. Dyer
-![Sample Image](/images/latentdr.png)
+---
 
 ### 2022
-- ***NeurIPS 2022*** [Visted my first in-person conference in New Orleans!]
-  - [Poster] [Continual VQA for Disaster Response Systems](https://arxiv.org/abs/2209.10320) at [CCAI](https://www.climatechange.ai/events/neurips2022)
-- ***ICML 2022***
-  - [Best Paper Award 🌟] [An Efficient Modern Baseline for FloodNet VQA](https://arxiv.org/abs/2205.15025) at [New In ML](https://ablacan.github.io/NewInML2022_ICML/)
-- ***ACL 2022***
-  - [Oral] [Transformer based ensemble for emotion detection](https://arxiv.org/abs/2203.11899) at [WASSA](https://wassa-workshop.github.io/)
+
+#### NeurIPS 2022 <span style="color:#fab005;">(First in-person conference!)</span>
+- <strong>Poster:</strong> <a href="https://arxiv.org/abs/2209.10320">Continual VQA for Disaster Response Systems</a> at <a href="https://www.climatechange.ai/events/neurips2022">CCAI</a>
+
+#### ICML 2022 <span style="color:#40c057;">(Best Paper Award 🌟)</span>
+- <a href="https://arxiv.org/abs/2205.15025">An Efficient Modern Baseline for FloodNet VQA</a> at <a href="https://ablacan.github.io/NewInML2022_ICML/">New In ML</a>
+
+#### ACL 2022
+- <strong>Oral:</strong> <a href="https://arxiv.org/abs/2203.11899">Transformer based ensemble for emotion detection</a> at <a href="https://wassa-workshop.github.io/">WASSA</a>
+
+---
 
 ### 2021
-- ***NeurIPS 2021***
-  1. [Spotlight Paper 🌟] [Semi-Supervised Classification and Segmentation on High Resolution Aerial Images](https://arxiv.org/abs/2105.08655) at [CCAI](https://www.climatechange.ai/events/neurips2021.html)
-  2. [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://arxiv.org/abs/2108.11554) at 1. [Oral] New in ML 2. [Paper] CtrlGen 3. [Paper] ML4CD 4. [Poster] DGM
-  3. [Poster] [A Studious Approach to Semi-Supervised Learning](https://arxiv.org/abs/2109.08924) at [ICBINB](https://i-cant-believe-its-not-better.github.io/neurips2021/)
-- ***NAACL 2021***
-  - [Top Performer Award 🌟] [BERT based Transformers lead the way in Extraction of Health Information from Social Media](https://aclanthology.org/2021.smm4h-1.5/) at [SMM4H](https://healthlanguageprocessing.org/smm4h-2021/)
+
+#### NeurIPS 2021
+- <strong>Spotlight Paper 🌟:</strong> <a href="https://arxiv.org/abs/2105.08655">Semi-Supervised Classification and Segmentation on High Resolution Aerial Images</a> at <a href="https://www.climatechange.ai/events/neurips2021.html">CCAI</a>
+- <a href="https://arxiv.org/abs/2108.11554">XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches</a>  
+  <sub>Presented at: Oral (New in ML), Paper (CtrlGen, ML4CD), Poster (DGM)</sub>
+- <strong>Poster:</strong> <a href="https://arxiv.org/abs/2109.08924">A Studious Approach to Semi-Supervised Learning</a> at <a href="https://i-cant-believe-its-not-better.github.io/neurips2021/">ICBINB</a>
+
+#### NAACL 2021 <span style="color:#fab005;">(Top Performer Award 🌟)</span>
+- <a href="https://aclanthology.org/2021.smm4h-1.5/">BERT based Transformers lead the way in Extraction of Health Information from Social Media</a> at <a href="https://healthlanguageprocessing.org/smm4h-2021/">SMM4H</a>
