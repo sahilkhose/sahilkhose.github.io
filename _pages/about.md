@@ -11,7 +11,7 @@ I'm a Ph.D. student in Computer Science at **Georgia Tech**, where I'm fortunate
 
 Recent work includes:
 
-1. A 7B open-source VLM for open-vocabulary 3D scene graph generation, under review at NeurIPS 2025.
+1. A 7B open-source VLM for open-vocabulary 3D scene graph generation, under review.
 
 2. SkyScenes, a synthetic aerial dataset for improving real-world segmentation, accepted at ECCV 2024.
 
@@ -21,9 +21,8 @@ I bring prior experience in domain generalization, zero-shot learning, and synth
 
 I also review for top conferences (NeurIPS, CVPR, ECCV), and have published across both vision and language communities.
 
-🌟 ***I’ll be attending CVPR 2025 — if you’re around and working in similar areas, I’d love to connect!***
 
-💼 ***I'm currently looking for research internships for Summer 2026 — feel free to reach out if you're hiring!***
+> 💼 <span style="color:#d6336c; font-weight:bold; font-size:1.1em;">I'm currently looking for research internships for Summer 2026 — feel free to reach out if you're hiring!</span>
 
 
 
@@ -45,6 +44,9 @@ Lately, I’ve been diving into Multimodal Large Language Models (LLMs) — if y
 
 - 💡 Jul 1, 2024: My first first-author paper -- [SkyScenes: A Synthetic Dataset for Aerial Scene Understanding](https://arxiv.org/abs/2312.06719) is accepted at ECCV 2024!
 
+<details>
+  <summary>View more</summary>
+
 - 🌟 Apr 1, 2024: Joining Georgia Tech for Ph.D. CS under **Prof. Judy Hoffman** in Fall 2024. 
 
 - 📆 Mar 12, 2024: Serving as a reviewer for ECCV 2024.
@@ -54,6 +56,8 @@ Lately, I’ve been diving into Multimodal Large Language Models (LLMs) — if y
 - 🌟 Attending NeurIPS 2022 at New Orleans, LA, USA. My first in-person conference!
 
 - 🌟 Apr 4, 2022: Admitted to the [MS CS](https://www.cc.gatech.edu/degree-programs/master-science-computer-science) program of [Georgia Tech](https://www.gatech.edu/) for Fall 2022!
+
+</details>
 
 --- 
 ## Publications
@@ -89,4 +93,4 @@ Lately, I’ve been diving into Multimodal Large Language Models (LLMs) — if y
   2. [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://arxiv.org/abs/2108.11554) at 1. [Oral] New in ML 2. [Paper] CtrlGen 3. [Paper] ML4CD 4. [Poster] DGM
   3. [Poster] [A Studious Approach to Semi-Supervised Learning](https://arxiv.org/abs/2109.08924) at [ICBINB](https://i-cant-believe-its-not-better.github.io/neurips2021/)
 - ***NAACL 2021***
-  - [Oral] [BERT based Transformers lead the way in Extraction of Health Information from Social Media](https://aclanthology.org/2021.smm4h-1.5/) at [SMM4H](https://healthlanguageprocessing.org/smm4h-2021/)
+  - [Top Performer Award 🌟] [BERT based Transformers lead the way in Extraction of Health Information from Social Media](https://aclanthology.org/2021.smm4h-1.5/) at [SMM4H](https://healthlanguageprocessing.org/smm4h-2021/)

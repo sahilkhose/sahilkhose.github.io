@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=p1AgiZcAAAAJ&hl=en
 
   - title: "Talks"
     url: /talks/    
@@ -17,7 +17,7 @@ main:
     
   - title: "CV"
     # url: /cv/
-    url: /files/Sahil_Khose.pdf
+    url: /files/Sahil_Khose_website.pdf
     
   - title: "Feed"
     url: /feed/
