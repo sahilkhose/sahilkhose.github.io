@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!-- 
 <div align="center">
   <img src="/images/coda_sky.jpg" alt="Sahil Khose" style="width:140px; border-radius:50%; margin-bottom:1em; box-shadow:0 2px 8px rgba(0,0,0,0.08);"/>
   <h2 style="margin-top:0;">Sahil Khose</h2>
@@ -17,11 +17,11 @@ redirect_from:
   <a href="https://github.com/sahilkhose" style="margin:0 0.5em;"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" style="vertical-align:middle;"/></a>
   <a href="https://www.linkedin.com/in/sahilkhose/" style="margin:0 0.5em;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:middle;"/></a>
   <a href="https://twitter.com/SahilKhose" style="margin:0 0.5em;"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" style="vertical-align:middle;"/></a>
-</div>
+</div> -->
 
 ---
 
-I'm a Ph.D. student in Computer Science at <b>Georgia Tech</b>, advised by <a href="https://faculty.cc.gatech.edu/~judy/" target="_blank"><b>Prof. Judy Hoffman</b></a>. My research focuses on building <b>multimodal vision-language models</b> that combine spatial, semantic, and temporal reasoning with minimal supervision.
+I'm a Ph.D. student in Computer Science at <b>Georgia Tech</b>, fortunate to be advised by <a href="https://faculty.cc.gatech.edu/~judy/" target="_blank"><b>Prof. Judy Hoffman</b></a>. My research focuses on building <b>multimodal vision-language models</b> that combine spatial, semantic, and temporal reasoning with minimal supervision.
 
 <div style="margin:1.5em 0 1em 0;">
   <span style="font-size:1.2em; font-weight:bold; color:#228be6;">Recent Projects</span>
