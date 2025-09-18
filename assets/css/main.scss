@@ -39,3 +39,13 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom styles to remove blank space when no title */
+.page__title:empty {
+  display: none;
+}
+
+/* Remove any default spacing for pages without titles */
+.page header:empty {
+  display: none;
+}
