@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D. student in Computer Science at <b>Georgia Tech</b>, fortunate to be advised by <a href="https://faculty.cc.gatech.edu/~judy/" target="_blank"><b>Prof. Judy Hoffman</b></a>. My research focuses on building <b>multimodal vision-language models</b> that combine spatial, semantic, and temporal reasoning with minimal supervision.
+I'm a Ph.D. student in Computer Science at <b>Georgia Tech</b>, where I am fortunate to be advised by <a href="https://faculty.cc.gatech.edu/~judy/" target="_blank"><b>Prof. Judy Hoffman</b></a>. 
 
 <div style="margin:1.5em 0 1em 0;">
   <span style="font-size:1.2em; font-weight:bold; color:#228be6;">Recent Projects</span>
