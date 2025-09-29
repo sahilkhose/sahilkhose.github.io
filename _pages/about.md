@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D. student in Computer Science at <b>Georgia Tech</b>, where I am fortunate to be advised by <a href="https://faculty.cc.gatech.edu/~judy/" target="_blank"><b>Prof. Judy Hoffman</b></a>. 
+I am a Ph.D. student in Computer Science at <b>Georgia Tech</b>, where I have the privilege of being advised by <a href="https://faculty.cc.gatech.edu/~judy/" target="_blank"><b>Prof. Judy Hoffman</b></a>. Before this, I completed my M.S. at <b>Georgia Tech</b> and earned my B.Tech. from <b>Manipal Institute of Technology</b>, where I was mentored by Prof. Harish Kumar JR. I have also interned at IISc Bangalore, collaborating with Dr. Chandan Gautam and Prof. Suresh Sundaram. During my undergraduate years, I was actively involved in Project MANAS and the Research Society Manipal.
 
 <div style="margin:1.5em 0 1em 0;">
   <span style="font-size:1.2em; font-weight:bold; color:#228be6;">Recent Projects</span>
@@ -24,7 +24,7 @@ My research advances <b>vision-language models (VLMs)</b> by extending their cap
 
 <div style="margin:1.5em 0;">
   <blockquote style="background:#fff0f6; border-left:4px solid #d6336c; padding:0.8em 1em; font-size:1.08em;">
-    💼 <span style="color:#d6336c; font-weight:bold;">I'm currently seeking research internships for Summer 2026 — feel free to reach out if you're hiring!</span>
+    💼 <span style="color:#d6336c; font-weight:bold;">I'm currently seeking research internships for 2026 — feel free to reach out if you're hiring!</span>
   </blockquote>
 </div>
 
