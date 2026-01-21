@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in Computer Science at <b>Georgia Tech</b>, where I have the privilege of being advised by <a href="https://faculty.cc.gatech.edu/~judy/" target="_blank"><b>Prof. Judy Hoffman</b></a>. Before this, I completed my M.S. at <b>Georgia Tech</b> and earned my B.Tech. from <b>Manipal Institute of Technology</b>, where I was mentored by Prof. Harish Kumar JR. I have also interned at IISc Bangalore, collaborating with Dr. Chandan Gautam and Prof. Suresh Sundaram. During my undergraduate years, I was actively involved in Project MANAS and the Research Society Manipal.
+I am a Ph.D. student in Computer Science at <b>UC Irvine</b>, where I have the privilege of being advised by <a href="https://faculty.cc.gatech.edu/~judy/" target="_blank"><b>Prof. Judy Hoffman</b></a>. I transferred from <b>Georgia Tech</b> with Prof. Hoffman, where I completed my M.S. Thesis under her supervision. I earned my B.Tech. from <b>Manipal Institute of Technology</b>, where I was mentored by Prof. Harish Kumar JR. I have also interned at IISc Bangalore, collaborating with Dr. Chandan Gautam and Prof. Suresh Sundaram. During my undergraduate years, I was actively involved in Project MANAS and the Research Society Manipal.
 
 <div style="margin:1.5em 0 1em 0;">
   <span style="font-size:1.2em; font-weight:bold; color:#228be6;">Recent Projects</span>
@@ -33,6 +33,12 @@ My research advances <b>vision-language models (VLMs)</b> by extending their cap
 ## 📝 Recent Updates <span style="font-size:small;">[ <b>🌟</b>: Highlight &nbsp;|&nbsp; <b>💡</b>: Research &nbsp;|&nbsp; <b>📆</b>: Misc ]</span>
 
 <ul style="list-style-type:none; padding-left:0; margin-bottom:0.5em;">
+  <li>
+    <span style="font-size:1.1em;">📆</span> <b>Jan, 2026:</b> Moved to Irvine, California.
+  </li>
+  <li>
+    <span style="font-size:1.1em;">🌟</span> <b>Attending NeurIPS 2025</b> in San Diego!
+  </li>
   <li>
     <span style="font-size:1.1em;">🌟</span> <b>Attending CVPR 2025</b> in Nashville!
   </li>
