@@ -1,0 +1,333 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Sahil Khose</title>
+<meta name="description" content="Sahil Khose, PhD student in computer vision and machine learning. Generative world models for embodied intelligence, multimodal foundation models, and trustworthy evaluation.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="stylesheet.css">
+<!--
+  Modern academic homepage in the style of prithv1.xyz (template by Saining Xie & Shiori Sagawa).
+  Deploy: copy index.html + stylesheet.css + images/ into your sahilkhose.github.io repo and push
+  (GitHub Pages serves it as-is; no build step). Replace the SVG placeholders in images/ with real
+  figures/headshot (keep filenames or update the src). Fill the TODO links.
+-->
+</head>
+<body>
+
+<header class="nav">
+  <div class="nav-inner">
+    <span class="brand"><a href="#home">Sahil Khose</a></span>
+    <nav class="nav-links">
+      <a href="#about">About</a>
+      <a href="#news">News</a>
+      <a href="#research">Research</a>
+      <a href="#service">Service</a>
+      <button class="toggle" id="themeToggle" aria-label="Toggle dark mode">dark</button>
+    </nav>
+  </div>
+</header>
+
+<div class="container">
+  <div class="layout">
+
+      <!-- ============ Hero / About ============ -->
+      <section id="home" class="hero" style="border:0">
+        <img class="avatar" src="images/coda_sky.jpg" alt="Sahil Khose">
+        <div id="about">
+          <h1>Sahil Khose</h1>
+          <p class="role">PhD student in Computer Science at UC Irvine, advised by <a href="https://jhoffman.github.io/" target="_blank" rel="noopener">Prof. Judy Hoffman</a>.</p>
+          <p class="avail"><span class="dot" aria-hidden="true"></span>Open to research internships, <a href="mailto:sahilkhose18@gmail.com">get in touch</a></p>
+          <div class="tags">
+            <span class="tag">world models</span>
+            <span class="tag">VLMs</span>
+            <span class="tag">robustness</span>
+          </div>
+          <p>I work toward <strong>generalizable, physically-grounded embodied intelligence</strong>: systems that perceive across modalities and act reliably in the world. Two commitments run through my work: models should <strong>generalize under distribution shift</strong>, and we should be able to <strong>tell when to trust them</strong>.</p>
+          <p>Lately I focus on <strong>generative world models for robot learning</strong>: using them to learn physically-grounded, data-efficient policies<a class="cite" href="#p-vam">[VAM]</a>, and building <strong>interpretable evaluation</strong> to know when to trust them<a class="cite" href="#p-wfm">[WFM-Eval]</a>, since a generated video can look photorealistic while teaching a robot to grasp an object that isn't there. This builds on a foundation in <strong>OOD robustness</strong><a class="cite" href="#p-ldr">[LatentDR]</a>, <strong>controllable synthetic data</strong><a class="cite" href="#p-sky">[SkyScenes]</a>, and <strong>multimodal / 3D grounding</strong><a class="cite" href="#p-spot">[SPOT]</a><a class="cite" href="#p-mllm">[MLLM]</a>.</p>
+          <p class="sociallinks">
+            <a href="mailto:sahilkhose18@gmail.com">email</a>
+            <span class="sep">·</span><a href="https://scholar.google.com/citations?user=p1AgiZcAAAAJ&amp;hl=en" target="_blank" rel="noopener">scholar</a>
+            <span class="sep">·</span><a href="https://github.com/sahilkhose" target="_blank" rel="noopener">github</a>
+            <span class="sep">·</span><a href="Sahil_Khose_CV.pdf" target="_blank" rel="noopener">cv</a>
+            <span class="sep">·</span><a href="https://twitter.com/SahilKhose" target="_blank" rel="noopener">twitter</a>
+            <span class="sep">·</span><a href="https://www.linkedin.com/in/sahilkhose" target="_blank" rel="noopener">linkedin</a>
+            <span class="sep">·</span><a href="https://www.youtube.com/c/SahilKhose" target="_blank" rel="noopener">youtube</a>
+          </p>
+        </div>
+      </section>
+
+      <!-- ============ Affiliations ============ -->
+      <section id="affiliations">
+        <h2 class="shead">Affiliations</h2>
+        <div class="affil-strip">
+          <div class="aff"><img src="images/mit_manipal.png" alt="Manipal Institute of Technology"><p>2018&ndash;2022</p></div>
+          <div class="aff"><img src="images/iisc.svg" class="wbg" alt="Indian Institute of Science"><p>2021&ndash;2022</p></div>
+          <div class="aff"><img src="images/georgia-tech.webp" alt="Georgia Tech"><p>2022&ndash;2026</p></div>
+          <div class="aff"><img src="images/uc-irvine.png" alt="UC Irvine"><p>2026&ndash;Present</p></div>
+        </div>
+      </section>
+
+      <!-- ============ CVPR 2026 highlight (remove after the conference) ============ -->
+      <div class="cvpr-callout">
+        <div class="cc-copy">
+          <p class="ctitle">&#128205; At CVPR 2026, come check out our workshop papers</p>
+          <ul>
+            <li><a href="#p-wfm">WFM-Eval: Interpretable Error Diagnostics for Video World Models in Robotics</a>
+              <span class="wname"><a href="https://videoworldmodel-workshop.github.io/" target="_blank" rel="noopener">Video World Models</a> (Jun 3) &middot; <a href="https://foundation-models-meet-embodied-agents.github.io/cvpr2026/" target="_blank" rel="noopener">Foundation Models meet Embodied Agents / FMEA</a> (Jun 4)</span></li>
+            <li><a href="#p-spot">SPOT: Structured Prompting with Object-Centric Tokens for Open-World Scene Graphs</a>
+              <span class="wname"><a href="https://musi-workshop.github.io/" target="_blank" rel="noopener">Multimodal Spatial Intelligence / MUSI</a> (Jun 3) &middot; <a href="https://sites.google.com/stanford.edu/visual-concepts-workshops" target="_blank" rel="noopener">Visual Concepts</a> (Jun 4)</span></li>
+          </ul>
+          <p class="cc-cta">I'm at CVPR <b>June 2&ndash;8</b>. <a href="mailto:sahilkhose18@gmail.com">Email me</a> to grab coffee and talk world models, VLMs, or robot learning.</p>
+        </div>
+        <a class="cc-img" href="https://cvpr.thecvf.com/Conferences/2026" target="_blank" rel="noopener" title="CVPR 2026 &middot; Denver, Colorado (Jun 3&ndash;7)">
+          <img src="images/CVPR_Denver_2026.jpg" alt="CVPR 2026 &middot; Denver, Colorado &middot; June 3&ndash;7, 2026">
+        </a>
+      </div>
+
+      <!-- ============ News (below About) ============ -->
+      <section id="news">
+        <h2 class="shead">News</h2>
+        <div class="news-feed">
+          <ul class="news">
+            <li><span class="date">May 2026</span><span><span class="red">Looking for research internships</span> in world models, VLMs &amp; robot learning. If your team is hiring, <a href="mailto:sahilkhose18@gmail.com">let's talk</a>.</span></li>
+            <li><span class="date">May 2026</span><span><span class="red">WFM-Eval</span> accepted at two CVPR 2026 workshops: Video World Models and Foundation Models meet Embodied Agents (FMEA).</span></li>
+            <li><span class="date">May 2026</span><span><span class="red">SPOT</span> accepted at two CVPR 2026 workshops (Multimodal Spatial Intelligence &amp; Visual Concepts), led by my labmate <a href="https://mq-zhang1.github.io/" target="_blank" rel="noopener">Mengqi Zhang</a>.</span></li>
+            <li><span class="date">Sep 2024</span><span><strong>SkyScenes</strong> featured in <a href="https://www.gatech.edu/news/2024/09/26/skyscenes-dataset-could-lead-safe-reliable-autonomous-flying-vehicles" target="_blank" rel="noopener">Georgia Tech News</a>, <a href="https://www.cc.gatech.edu/news/skyscenes-dataset-could-lead-safe-reliable-autonomous-flying-vehicles" target="_blank" rel="noopener">College of Computing</a> &amp; <a href="https://www.miragenews.com/skyscenes-boosts-autonomous-flight-safety-with-1338386/" target="_blank" rel="noopener">Mirage News</a> coverage.</span></li>
+            <li><span class="date">Jul 2024</span><span><strong>SkyScenes</strong> accepted to ECCV 2024.</span></li>
+            <li><span class="date">Jan 2024</span><span><strong>LatentDR</strong> accepted to WACV 2024.</span></li>
+          </ul>
+        </div>
+      </section>
+
+      <main>
+      <!-- ============ Research ============ -->
+      <section id="research">
+        <h2 class="shead">Research</h2>
+        <div class="filters">
+          <button class="filter active" data-filter="all">all</button>
+          <button class="filter" data-filter="world-models">world models</button>
+          <button class="filter" data-filter="multimodal">multimodal</button>
+          <button class="filter" data-filter="generalization">generalization</button>
+        </div>
+
+        <!-- WFM-Eval -->
+        <article class="pub" id="p-wfm" data-tags="world-models robotics">
+          <img class="thumb" src="images/wfm-eval.svg" alt="WFM-Eval">
+          <div>
+            <p class="pub-title">WFM-Eval: Interpretable Error Diagnostics for Video World Models in Robotics</p>
+            <p class="pub-venue cvpr">CVPR 2026 Workshops · Video World Models &amp; FMEA</p>
+            <p class="pub-authors"><span class="me">Sahil Khose</span>, Mengqi Zhang, Prithvijit Chattopadhyay, Judy Hoffman</p>
+            <div class="pub-links">
+              <span class="soon">[Paper coming soon]</span>
+              <button class="tldr-btn" data-target="tldr-wfm">[TL;DR]</button>
+            </div>
+            <div class="pub-tldr" id="tldr-wfm"><b>TL;DR.</b> A robotics-specific framework scoring task completion, object hallucination, and temporal consistency. Across 5 generators × 6 datasets, model rankings reverse between datasets, and object hallucination (not photorealism) is the dominant failure mode for downstream policy learning.</div>
+          </div>
+        </article>
+
+        <!-- Generic-titled entry for a not-yet-public project (renamed to avoid de-anonymizing a blind submission). -->
+        <article class="pub" id="p-vam" data-tags="world-models robotics">
+          <img class="thumb" src="images/vam.svg" alt="VAM - video action model">
+          <div>
+            <p class="pub-title">Generative Video Models for Robot Policy Learning</p>
+            <p class="pub-venue">Under review</p>
+            <div class="pub-links">
+              <span class="soon">[Paper coming soon]</span>
+              <button class="tldr-btn" data-target="tldr-vid">[TL;DR]</button>
+            </div>
+            <div class="pub-tldr" id="tldr-vid"><b>TL;DR.</b> Decouples a video world-model expert (Cosmos-Predict2) from a flow-matching action expert via cross-attention bridge tokens, grounded with affordance and depth. Delivers strong, highly data-efficient manipulation, outperforming prior video-action models on RoboCasa with far fewer demonstrations, and generalizes across LIBERO / LIBERO-Plus and real-world bimanual tasks.</div>
+          </div>
+        </article>
+
+        <!-- SPOT -->
+        <article class="pub" id="p-spot" data-tags="multimodal 3d">
+          <img class="thumb" src="images/SPOT.png" alt="SPOT">
+          <div>
+            <p class="pub-title"><a href="https://openreview.net/pdf?id=hyB6UchStf" target="_blank" rel="noopener">SPOT: Structured Prompting with Object-Centric Tokens for Open-World Scene Graphs</a></p>
+            <p class="pub-venue cvpr">CVPR 2026 Workshops · MUSI &amp; Visual Concepts</p>
+            <p class="pub-authors">Mengqi Zhang, <span class="me">Sahil Khose</span>, Fiona Ryan, Judy Hoffman</p>
+            <div class="pub-links">
+              <a href="https://openreview.net/pdf?id=hyB6UchStf" target="_blank" rel="noopener">[Paper]</a>
+              <button class="tldr-btn" data-target="tldr-spot">[TL;DR]</button>
+            </div>
+            <div class="pub-tldr" id="tldr-spot"><b>TL;DR.</b> Open-world and 3D scene-graph generation on open-source VLMs via structured "fill-in-the-blank" prompts, object-centric SigLIP tokens, and distance-aware relation pruning. Competitive on Visual Genome (PredCLS R@100 = 61.9) and far ahead of prior open-vocabulary methods in 3D.</div>
+          </div>
+        </article>
+
+        <!-- MLLM -->
+        <article class="pub" id="p-mllm" data-tags="multimodal">
+          <img class="thumb" src="images/MLLM-img-audio.png" alt="MLLM vision and audio">
+          <div>
+            <p class="pub-title">Extending Multimodal Large Language Models Beyond a Single Modality (Vision + Audio)</p>
+            <p class="pub-venue">Preprint</p>
+            <p class="pub-authors"><span class="me">Sahil Khose</span>, Manushree Vasu, Humphrey Shi, Judy Hoffman</p>
+            <div class="pub-links">
+              <a href="https://drive.google.com/file/d/1ypyRQa39c8UKmQ2GZusMsrC9TFNZ8_pJ/view" target="_blank" rel="noopener">[Paper]</a>
+              <button class="tldr-btn" data-target="tldr-mllm">[TL;DR]</button>
+            </div>
+            <div class="pub-tldr" id="tldr-mllm"><b>TL;DR.</b> A generalist vision+audio MLLM (CLIP + BEATs + Vicuna). Joint instruction tuning beats sequential fine-tuning, simple MLP projectors beat Q-Former in data-scarce regimes, and instruction-following transfers from data-rich (vision) to data-scarce (audio) modalities.</div>
+          </div>
+        </article>
+
+        <!-- SkyScenes -->
+        <article class="pub" id="p-sky" data-tags="generalization">
+          <img class="thumb" src="images/skyscenes.jpg" alt="SkyScenes">
+          <div>
+            <p class="pub-title"><a href="https://arxiv.org/abs/2312.06719" target="_blank" rel="noopener">SkyScenes: A Synthetic Dataset for Aerial Scene Understanding</a></p>
+            <p class="pub-venue">ECCV 2024</p>
+            <p class="pub-authors"><span class="me">Sahil Khose</span>*, Anisha Pal*, Aayushi Agarwal*, Deepanshi*, Judy Hoffman, Prithvijit Chattopadhyay</p>
+            <div class="pub-links">
+              <a href="https://arxiv.org/abs/2312.06719" target="_blank" rel="noopener">[arXiv]</a>
+              <a href="https://huggingface.co/datasets/hoffman-lab/SkyScenes" target="_blank" rel="noopener">[Dataset]</a>
+              <a href="https://github.com/hoffman-group/SkyScenes" target="_blank" rel="noopener">[Code]</a>
+              <button class="tldr-btn" data-target="tldr-sky">[TL;DR]</button>
+            </div>
+            <p class="pub-links" style="margin-top:4px"><span style="color:var(--soft)">Press:</span>
+              <a href="https://www.gatech.edu/news/2024/09/26/skyscenes-dataset-could-lead-safe-reliable-autonomous-flying-vehicles" target="_blank" rel="noopener">Georgia Tech News</a>
+              <a href="https://www.cc.gatech.edu/news/skyscenes-dataset-could-lead-safe-reliable-autonomous-flying-vehicles" target="_blank" rel="noopener">GT College of Computing</a>
+              <a href="https://news.gatech.edu/news/2024/10/02/skyscenes-leverages-new-algorithms-improve-safety-autonomous-flying-vehicles" target="_blank" rel="noopener">GT News Center</a>
+              <a href="https://www.miragenews.com/skyscenes-boosts-autonomous-flight-safety-with-1338386/" target="_blank" rel="noopener">Mirage News</a>
+            </p>
+            <div class="pub-tldr" id="tldr-sky"><b>TL;DR.</b> 33.6K densely-annotated, controllable synthetic UAV images (CARLA) across maps, weather/time, altitude, and pitch, with a HumanSpawn algorithm that ~10× tail-class pixels. Strong synthetic→real transfer for aerial segmentation. <i>* equal contribution.</i></div>
+          </div>
+        </article>
+
+        <!-- LatentDR -->
+        <article class="pub" id="p-ldr" data-tags="generalization">
+          <img class="thumb" src="images/latentdr.png" alt="LatentDR">
+          <div>
+            <p class="pub-title"><a href="https://arxiv.org/abs/2308.14596" target="_blank" rel="noopener">LatentDR: Improving Model Generalization with Sample-Aware Latent Degradation &amp; Restoration</a></p>
+            <p class="pub-venue">WACV 2024</p>
+            <p class="pub-authors">Ran Liu, <span class="me">Sahil Khose</span>, Jingyun Xiao, Lakshmi Sathidevi, Keerthan Ramnath, Zsolt Kira, Eva L. Dyer</p>
+            <div class="pub-links">
+              <a href="https://arxiv.org/abs/2308.14596" target="_blank" rel="noopener">[arXiv]</a>
+              <button class="tldr-btn" data-target="tldr-ldr">[TL;DR]</button>
+            </div>
+            <div class="pub-tldr" id="tldr-ldr"><b>TL;DR.</b> A latent-space augmentation that degrades a sample toward classifier confusion then restores its class via attention across minibatch samples: +2.7% avg over ERM on DomainBed and up to +9% on medical imaging.</div>
+          </div>
+        </article>
+
+      </section>
+
+      <!-- ============ Previous research ============ -->
+      <section id="prev">
+        <h2 class="shead">Previous research</h2>
+
+        <div class="prevpub">
+          <div class="pp-row"><span class="pp-title"><b>INDICON 2023:</b> Explainable Classification of Macular Degeneration Using Deep Learning</span><span class="pp-right"><a href="https://ieeexplore.ieee.org/document/10440906" target="_blank" rel="noopener">IEEE</a> | <a href="https://drive.google.com/file/d/1i8fbDWa2MTJYpm2hCFW8BeKGh0LhF7ey/view" target="_blank" rel="noopener">Paper</a></span></div>
+        </div>
+
+        <div class="prevpub">
+          <div class="pp-row"><span class="pp-title"><b>INDICON 2023:</b> Fovea Segmentation Using Semi-Supervised Learning</span><span class="pp-right"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10440760" target="_blank" rel="noopener">IEEE</a> | <a href="https://drive.google.com/file/d/1B_PZMnSwt7xv62xR760ujvZb-0h3qzdG/view" target="_blank" rel="noopener">Paper</a></span></div>
+        </div>
+
+        <div class="prevpub">
+          <div class="pp-row"><span class="pp-title"><b>NeurIPS-W 2022:</b> Continual VQA for Disaster Response Systems</span><span class="pp-right"><a href="https://github.com/AdityaKane2001/continual_vqa" target="_blank" rel="noopener">GitHub</a> | <a href="https://arxiv.org/abs/2209.10320" target="_blank" rel="noopener">Paper</a></span></div>
+        </div>
+
+        <div class="prevpub">
+          <div class="pp-row"><span class="pp-title"><b>ICML-W 2022:</b> An Efficient Modern Baseline for FloodNet VQA<span class="pp-award">Best Paper</span></span><span class="pp-right"><a href="https://github.com/sahilkhose/floodnet_vqa" target="_blank" rel="noopener">GitHub</a> | <a href="https://arxiv.org/abs/2205.15025" target="_blank" rel="noopener">Paper</a></span></div>
+        </div>
+
+        <div class="prevpub">
+          <div class="pp-row"><span class="pp-title"><b>ACL-W 2022:</b> Transformer based ensemble for emotion detection<span class="pp-award">Oral</span></span><span class="pp-right"><a href="https://github.com/AdityaKane2001/ACL_WASSA" target="_blank" rel="noopener">GitHub</a> | <a href="https://aclanthology.org/2022.wassa-1.25/" target="_blank" rel="noopener">Paper</a></span></div>
+        </div>
+
+        <div class="prevpub">
+          <div class="pp-row"><span class="pp-title"><b>NeurIPS-W 2021:</b> A Studious Approach to Semi-Supervised Learning</span><span class="pp-right"><a href="https://github.com/sahilkhose/studious_ssl" target="_blank" rel="noopener">GitHub</a> | <a href="https://arxiv.org/abs/2109.08924" target="_blank" rel="noopener">Paper</a></span></div>
+        </div>
+
+        <div class="prevpub">
+          <div class="pp-row"><span class="pp-title"><b>NeurIPS-W 2021:</b> XCI-Sketch: Colored Outlines &amp; Sketches from Images<span class="pp-award">Oral</span></span><span class="pp-right"><a href="https://github.com/sahilkhose/XCI-Sketch" target="_blank" rel="noopener">GitHub</a> | <a href="https://arxiv.org/abs/2108.11554" target="_blank" rel="noopener">Paper</a></span></div>
+        </div>
+
+        <div class="prevpub">
+          <div class="pp-row"><span class="pp-title"><b>NeurIPS-W 2021:</b> Semi-Supervised Aerial Classification &amp; Segmentation<span class="pp-award">Spotlight</span></span><span class="pp-right"><a href="https://github.com/sahilkhose/FloodNet" target="_blank" rel="noopener">GitHub</a> | <a href="https://arxiv.org/abs/2105.08655" target="_blank" rel="noopener">Paper</a></span></div>
+        </div>
+
+        <div class="prevpub">
+          <div class="pp-row"><span class="pp-title"><b>NAACL-W 2021:</b> BERT for Health Information Extraction from Social Media<span class="pp-award">Top Performer</span></span><span class="pp-right"><a href="https://github.com/sahilkhose/SMM4H21" target="_blank" rel="noopener">GitHub</a> | <a href="https://aclanthology.org/2021.smm4h-1.5/" target="_blank" rel="noopener">Paper</a></span></div>
+        </div>
+      </section>
+
+      <!-- ============ Service ============ -->
+      <section id="service">
+        <h2 class="shead">Service</h2>
+        <ul class="svc">
+          <li><span class="lbl">Conference reviewer</span><span>CVPR (2026, 2025) &middot; NeurIPS (2026, 2025) &middot; ECCV (2026, 2024) &middot; CoRL 2026</span></li>
+          <li><span class="lbl">Workshop reviewer</span><span>CVPR-W 2026 (FMEA) &middot; NeurIPS-W 2025 (MATH-AI) &middot; CVPR-W 2025 (EMACS) &middot; NeurIPS-W 2023 (ICBINB, DGM4H) &middot; ICCV-W 2023 (WiCV) &middot; NAACL-W 2021 (SMM4H)</span></li>
+          <li><span class="lbl">Volunteer</span><span>ICRA 2025 (Atlanta, GA) &middot; NeurIPS 2022 (New Orleans, LA)</span></li>
+        </ul>
+      </section>
+    </main>
+
+  </div>
+</div>
+
+<footer>
+  Design &amp; CSS courtesy of <a href="https://cs.stanford.edu/~ssagawa/" target="_blank" rel="noopener">Shiori Sagawa</a> &amp; <a href="https://www.sainingxie.com/" target="_blank" rel="noopener">Saining Xie</a>; adapted from <a href="https://prithv1.xyz/" target="_blank" rel="noopener">Prithvijit Chattopadhyay</a>. &nbsp;<a href="#home">Back to top</a>
+</footer>
+
+<script>
+(function(){
+  var root=document.documentElement, btn=document.getElementById("themeToggle");
+  function sysDark(){return window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;}
+  var saved=null; try{saved=localStorage.getItem("theme");}catch(e){}
+  if(saved){root.setAttribute("data-theme",saved);}
+  function cur(){return root.getAttribute("data-theme")|| (sysDark()?"dark":"light");}
+  function sync(){btn.textContent=cur()==="dark"?"light":"dark";}
+  sync();
+  btn.addEventListener("click",function(){
+    var next=cur()==="dark"?"light":"dark";
+    root.setAttribute("data-theme",next);
+    try{localStorage.setItem("theme",next);}catch(e){}
+    sync();
+  });
+
+  // TL;DR toggles
+  document.querySelectorAll(".tldr-btn").forEach(function(b){
+    b.addEventListener("click",function(){
+      var el=document.getElementById(b.getAttribute("data-target"));
+      if(el) el.classList.toggle("open");
+    });
+  });
+
+  // tag filters
+  var pubs=document.querySelectorAll(".pub");
+  document.querySelectorAll(".filter").forEach(function(f){
+    f.addEventListener("click",function(){
+      document.querySelectorAll(".filter").forEach(function(x){x.classList.remove("active");});
+      f.classList.add("active");
+      var t=f.getAttribute("data-filter");
+      pubs.forEach(function(p){
+        var tags=(p.getAttribute("data-tags")||"").split(" ");
+        p.classList.toggle("hide", t!=="all" && tags.indexOf(t)===-1);
+      });
+    });
+  });
+
+  // active nav link on scroll
+  var secs=["about","news","research","service"].map(function(id){return document.getElementById(id);}).filter(Boolean);
+  var links={};
+  document.querySelectorAll(".nav-links a").forEach(function(a){
+    var h=a.getAttribute("href"); if(h&&h[0]==="#") links[h.slice(1)]=a;
+  });
+  if("IntersectionObserver" in window){
+    var obs=new IntersectionObserver(function(es){
+      es.forEach(function(e){
+        if(e.isIntersecting){
+          Object.values(links).forEach(function(a){a.classList.remove("active");});
+          var id=e.target.id; if(links[id]) links[id].classList.add("active");
+        }
+      });
+    },{rootMargin:"-45% 0px -50% 0px"});
+    secs.forEach(function(s){obs.observe(s);});
+  }
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-label="VAM - video action model">
+  <rect width="320" height="220" rx="10" fill="#e0e7ff"/>
+  <text x="160" y="105" text-anchor="middle" font-family="Lato,Arial,sans-serif" font-size="58" font-weight="700" fill="#4338ca">VAM</text>
+  <text x="160" y="148" text-anchor="middle" font-family="Lato,Arial,sans-serif" font-size="16" fill="#4338ca" opacity="0.85">video action model</text>
+</svg>

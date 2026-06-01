@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-label="WFM-Eval">
+  <rect width="320" height="220" rx="10" fill="#ccfbf1"/>
+  <text x="160" y="100" text-anchor="middle" font-family="Lato,Arial,sans-serif" font-size="40" font-weight="700" fill="#0f766e">WFM-Eval</text>
+  <text x="160" y="140" text-anchor="middle" font-family="Lato,Arial,sans-serif" font-size="16" fill="#0f766e" opacity="0.85">world-model evaluation</text>
+</svg>
