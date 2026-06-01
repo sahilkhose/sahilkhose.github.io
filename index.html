@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -74,7 +74,6 @@
             <span class="sep">·</span><a href="Sahil_Khose_CV.pdf" target="_blank" rel="noopener">cv</a>
             <span class="sep">·</span><a href="https://twitter.com/SahilKhose" target="_blank" rel="noopener">twitter</a>
             <span class="sep">·</span><a href="https://www.linkedin.com/in/sahilkhose" target="_blank" rel="noopener">linkedin</a>
-            <span class="sep">·</span><a href="https://www.youtube.com/c/SahilKhose" target="_blank" rel="noopener">youtube</a>
           </p>
         </div>
       </section>
@@ -135,22 +134,22 @@
 
         <!-- WFM-Eval -->
         <article class="pub" id="p-wfm" data-tags="world-models robotics">
-          <img class="thumb" src="images/wfm-eval.svg" alt="WFM-Eval">
+          <img class="thumb" src="images/wfm-eval.png" alt="WFM-Eval">
           <div>
-            <p class="pub-title">WFM-Eval: Interpretable Error Diagnostics for Video World Models in Robotics</p>
+            <p class="pub-title"><a href="https://drive.google.com/file/d/1qFO2oqpEjaMNlxBvsVrK6ylovqtljB6O/view?usp=sharing" target="_blank" rel="noopener">WFM-Eval: Interpretable Error Diagnostics for Video World Models in Robotics</a></p>
             <p class="pub-venue cvpr">CVPR 2026 Workshops · Video World Models &amp; FMEA</p>
             <p class="pub-authors"><span class="me">Sahil Khose</span>, Mengqi Zhang, Prithvijit Chattopadhyay, Judy Hoffman</p>
             <div class="pub-links">
-              <span class="soon">[Paper coming soon]</span>
+              <a href="https://drive.google.com/file/d/1qFO2oqpEjaMNlxBvsVrK6ylovqtljB6O/view?usp=sharing" target="_blank" rel="noopener">[Paper]</a>
               <button class="tldr-btn" data-target="tldr-wfm">[TL;DR]</button>
             </div>
-            <div class="pub-tldr" id="tldr-wfm"><b>TL;DR.</b> A robotics-specific framework scoring task completion, object hallucination, and temporal consistency. Across 5 generators × 6 datasets, model rankings reverse between datasets, and object hallucination (not photorealism) is the dominant failure mode for downstream policy learning.</div>
+            <div class="pub-tldr" id="tldr-wfm"><b>TL;DR.</b> A robotics-specific framework scoring task completion, object hallucination, and temporal consistency. We benchmark five video world models (Cosmos Predict2 &amp; Predict2.5, Veo 3.1, HunyuanVideo 1.5, Wan2.2) across six manipulation datasets, and test VLM judges (Qwen2.5-VL, Qwen3-VL, InternVL3.5, Cosmos-Reason1, Kimi-K2.5) for task completion. No single VLM reliably judges success, model rankings reverse between datasets, and object hallucination (not photorealism) is the dominant failure mode for downstream policy learning.</div>
           </div>
         </article>
 
         <!-- Generic-titled entry for a not-yet-public project (renamed to avoid de-anonymizing a blind submission). -->
         <article class="pub" id="p-vam" data-tags="world-models robotics">
-          <img class="thumb" src="images/vam.svg" alt="VAM - video action model">
+          <img class="thumb" src="images/vam.png" alt="VAM - video action model">
           <div>
             <p class="pub-title">Generative Video Models for Robot Policy Learning</p>
             <p class="pub-venue">Under review</p>
@@ -173,7 +172,7 @@
               <a href="https://openreview.net/pdf?id=hyB6UchStf" target="_blank" rel="noopener">[Paper]</a>
               <button class="tldr-btn" data-target="tldr-spot">[TL;DR]</button>
             </div>
-            <div class="pub-tldr" id="tldr-spot"><b>TL;DR.</b> Open-world and 3D scene-graph generation on open-source VLMs via structured "fill-in-the-blank" prompts, object-centric SigLIP tokens, and distance-aware relation pruning. Competitive on Visual Genome (PredCLS R@100 = 61.9) and far ahead of prior open-vocabulary methods in 3D.</div>
+            <div class="pub-tldr" id="tldr-spot"><b>TL;DR.</b> Open-world and 3D scene-graph generation on open-source VLMs via structured "fill-in-the-blank" prompts, object-centric SigLIP tokens, and distance-aware relation pruning. Competitive on Visual Genome (PredCLS R@100 = 61.9), outperforms GPT-4o-based methods on open-world cross-domain benchmarks (PSG, 3DSSG), and far ahead of prior open-vocabulary methods in 3D.</div>
           </div>
         </article>
 
@@ -296,7 +295,7 @@
   var root=document.documentElement, btn=document.getElementById("themeToggle");
   function sysDark(){return window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;}
   var saved=null; try{saved=localStorage.getItem("theme");}catch(e){}
-  if(saved){root.setAttribute("data-theme",saved);}
+  root.setAttribute("data-theme",saved||"dark");
   function cur(){return root.getAttribute("data-theme")|| (sysDark()?"dark":"light");}
   function sync(){btn.textContent=cur()==="dark"?"light":"dark";}
   sync();
